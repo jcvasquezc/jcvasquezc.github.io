@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JF Várgas-Bonilla | Academic</title>
+    <title>JF Vargas-Bonilla | Academic</title>
     <link>https://jcvasquezc.github.io/authors/jf-vargas-bonilla/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/jf-vargas-bonilla/index.xml" rel="self" type="application/rss+xml" />
-    <description>JF Várgas-Bonilla</description>
+    <description>JF Vargas-Bonilla</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.png</url>
-      <title>JF Várgas-Bonilla</title>
+      <title>JF Vargas-Bonilla</title>
       <link>https://jcvasquezc.github.io/authors/jf-vargas-bonilla/</link>
     </image>
     
@@ -25,22 +25,6 @@
       <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
-      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluation of the effects of speech enhancement algorithms on the detection of fundamental frequency of speech</title>
-      <link>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</guid>
       <description></description>
     </item>
     

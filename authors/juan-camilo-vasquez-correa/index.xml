@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Juan Camilo-Vásquez Correa | Academic</title>
+    <title>Juan Camilo Vásquez-Correa | Academic</title>
     <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/index.xml" rel="self" type="application/rss+xml" />
-    <description>Juan Camilo-Vásquez Correa</description>
+    <description>Juan Camilo Vásquez-Correa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.png</url>
-      <title>Juan Camilo-Vásquez Correa</title>
+      <title>Juan Camilo Vásquez-Correa</title>
       <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
     </image>
     
@@ -61,10 +61,18 @@
     </item>
     
     <item>
-      <title>Phonological i-Vectors to Detect Parkinson’s Disease</title>
+      <title>Phonological i-Vectors to Detect Parkinson&#39;s Disease</title>
       <link>https://jcvasquezc.github.io/publication/garcia-2018-phonological/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/garcia-2018-phonological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representaciones tiempo-frecuencia basadas en sensores inerciales para caracterizar la marcha en la enfermedad de Parkinson</title>
+      <link>https://jcvasquezc.github.io/publication/bedoya-2018-representaciones/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/bedoya-2018-representaciones/</guid>
       <description></description>
     </item>
     
@@ -81,6 +89,14 @@
       <link>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson-A Mobile Monitoring Solution for Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</guid>
       <description></description>
     </item>
     
@@ -125,7 +141,15 @@
     </item>
     
     <item>
-      <title>Parkinson’s disease and aging: analysis of their effect in phonation and articulation of speech</title>
+      <title>On the impact of non-modal phonation on phonological features</title>
+      <link>https://jcvasquezc.github.io/publication/cernak-2017-impact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/cernak-2017-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkinson&#39;s disease and aging: analysis of their effect in phonation and articulation of speech</title>
       <link>https://jcvasquezc.github.io/publication/arias-2017-parkinson/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/arias-2017-parkinson/</guid>
@@ -197,6 +221,14 @@
     </item>
     
     <item>
+      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Emotion recognition from speech under environmental noise conditions using wavelet decomposition</title>
       <link>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -209,6 +241,14 @@
       <link>https://jcvasquezc.github.io/publication/vasquez-2015-time/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2015-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the effects of speech enhancement algorithms on the detection of fundamental frequency of speech</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</guid>
       <description></description>
     </item>
     

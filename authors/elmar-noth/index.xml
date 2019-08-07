@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Phonological i-Vectors to Detect Parkinson’s Disease</title>
+      <title>Phonological i-Vectors to Detect Parkinson&#39;s Disease</title>
       <link>https://jcvasquezc.github.io/publication/garcia-2018-phonological/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/garcia-2018-phonological/</guid>
@@ -73,6 +73,14 @@
       <link>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson-A Mobile Monitoring Solution for Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</guid>
       <description></description>
     </item>
     
@@ -137,6 +145,14 @@
       <link>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-dependent gmm-ubm for tracking parkinson&#39;s disease progression from speech</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2016-gender/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2016-gender/</guid>
       <description></description>
     </item>
     
