@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Serra | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/j-serra/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/j-serra/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Serra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>J Serra</title>
+      <link>https://jcvasquezc.github.io/authors/j-serra/</link>
+    </image>
+    
+    <item>
+      <title>Effect of acoustic conditions on algorithms to detect Parkinson&#39;s disease from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-effect/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-effect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

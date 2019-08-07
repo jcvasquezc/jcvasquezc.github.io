@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julián David Arias-Londoño | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/julian-david-arias-londono/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julián David Arias-Londoño</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>Julián David Arias-Londoño</title>
+      <link>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</link>
+    </image>
+    
+    <item>
+      <title>Emotion recognition from speech under environmental noise conditions using wavelet decomposition</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of wavelet measures on automatic detection of emotion in noisy and telephony speech signals</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New computer aided device for real time analysis of speech of people with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-new/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Chinaei | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/h-chinaei/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/h-chinaei/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Chinaei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>H Chinaei</title>
+      <link>https://jcvasquezc.github.io/authors/h-chinaei/</link>
+    </image>
+    
+    <item>
+      <title>NeuroSpeech: An open-source software for Parkinson&#39;s speech analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

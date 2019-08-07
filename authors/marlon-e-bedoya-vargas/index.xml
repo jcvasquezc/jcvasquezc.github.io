@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marlon E Bedoya-Vargas | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/marlon-e-bedoya-vargas/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/marlon-e-bedoya-vargas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marlon E Bedoya-Vargas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>Marlon E Bedoya-Vargas</title>
+      <link>https://jcvasquezc.github.io/authors/marlon-e-bedoya-vargas/</link>
+    </image>
+    
+    <item>
+      <title>Representaciones tiempo-frecuencia basadas en sensores inerciales para caracterizar la marcha en la enfermedad de Parkinson</title>
+      <link>https://jcvasquezc.github.io/publication/bedoya-2018-representaciones/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/bedoya-2018-representaciones/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

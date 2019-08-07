@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JC Vásquez-Correa | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/jc-vasquez-correa/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/jc-vasquez-correa/index.xml" rel="self" type="application/rss+xml" />
+    <description>JC Vásquez-Correa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>JC Vásquez-Correa</title>
+      <link>https://jcvasquezc.github.io/authors/jc-vasquez-correa/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rios-2019-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech differences between CI users with pre-and postlingual onset of deafness detected by speech processing methods on voiceless to voice transitions</title>
+      <link>https://jcvasquezc.github.io/publication/vergara-2019-speech/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vergara-2019-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic evaluation of the dysarthria level of patients with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word accuracy and dynamic time warping to assess intelligibility deficits in patients with parkinsons disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-word/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the effects of speech enhancement algorithms on the detection of fundamental frequency of speech</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of an embedded system for real time analysis of speech from people with parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2013-design/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2013-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

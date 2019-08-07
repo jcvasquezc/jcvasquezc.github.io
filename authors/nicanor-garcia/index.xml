@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicanor Garcia | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/nicanor-garcia/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/nicanor-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicanor Garcia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>Nicanor Garcia</title>
+      <link>https://jcvasquezc.github.io/authors/nicanor-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language independent assessment of motor impairments of patients with Parkinson’s disease using i-vectors</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2017-language/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2017-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

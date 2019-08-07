@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JC Jiménez-Monsalve | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/jc-jimenez-monsalve/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/jc-jimenez-monsalve/index.xml" rel="self" type="application/rss+xml" />
+    <description>JC Jiménez-Monsalve</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>JC Jiménez-Monsalve</title>
+      <link>https://jcvasquezc.github.io/authors/jc-jimenez-monsalve/</link>
+    </image>
+    
+    <item>
+      <title>Phonation and Articulation Analyses in Laryngeal Pathologies, Cleft Lip and Palate, and Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/jimenez-2017-phonation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/jimenez-2017-phonation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

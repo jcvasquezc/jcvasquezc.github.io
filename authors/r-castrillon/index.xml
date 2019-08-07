@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Castrillón | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/r-castrillon/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/r-castrillon/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Castrillón</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>R Castrillón</title>
+      <link>https://jcvasquezc.github.io/authors/r-castrillon/</link>
+    </image>
+    
+    <item>
+      <title>Speaker Model to Monitor the Neurological State and the Dysarthria Level of Patients with Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-speaker/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-speaker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

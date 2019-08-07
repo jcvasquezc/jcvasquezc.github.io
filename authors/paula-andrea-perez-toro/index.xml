@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paula Andrea Pérez-Toro | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paula Andrea Pérez-Toro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>Paula Andrea Pérez-Toro</title>
+      <link>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</link>
+    </image>
+    
+    <item>
+      <title>A Non-linear Dynamics Approach to Classify Gait Signals of Patients with Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2018-non/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2018-non/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

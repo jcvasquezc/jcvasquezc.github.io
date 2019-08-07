@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://jcvasquezc.github.io/publication_types/2/</link>
+      <atom:link href="https://jcvasquezc.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>2</title>
+      <link>https://jcvasquezc.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rios-2019-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech differences between CI users with pre-and postlingual onset of deafness detected by speech processing methods on voiceless to voice transitions</title>
+      <link>https://jcvasquezc.github.io/publication/vergara-2019-speech/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vergara-2019-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal assessment of Parkinson&#39;s disease: a deep learning approach</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroSpeech: An open-source software for Parkinson&#39;s speech analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representaciones tiempo-frecuencia basadas en sensores inerciales para caracterizar la marcha en la enfermedad de Parkinson</title>
+      <link>https://jcvasquezc.github.io/publication/bedoya-2018-representaciones/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/bedoya-2018-representaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker models for monitoring Parkinson’s disease progression considering different communication channels and acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2018-speaker/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2018-speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic evaluation of the dysarthria level of patients with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterisation of voice quality of Parkinson’s disease using differential phonological posterior features</title>
+      <link>https://jcvasquezc.github.io/publication/cernak-2017-characterisation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/cernak-2017-characterisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkinson’s disease and aging: analysis of their effect in phonation and articulation of speech</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2017-parkinson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2017-parkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of hypernasal speech of children with cleft lip and palate from spanish vowels and words using classical measures and nonlinear analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech with acoustic, non-linear and wavelet-based features extracted in different acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New computer aided device for real time analysis of speech of people with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-new/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

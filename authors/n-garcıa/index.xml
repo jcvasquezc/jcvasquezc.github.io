@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Garcı́a | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/n-garc%C4%B1a/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/n-garc%C4%B1a/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Garcı́a</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>N Garcı́a</title>
+      <link>https://jcvasquezc.github.io/authors/n-garc%C4%B1a/</link>
+    </image>
+    
+    <item>
+      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the effects of speech enhancement algorithms on the detection of fundamental frequency of speech</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

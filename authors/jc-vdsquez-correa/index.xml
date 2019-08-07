@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JC Vdsquez-Correa | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/jc-vdsquez-correa/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/jc-vdsquez-correa/index.xml" rel="self" type="application/rss+xml" />
+    <description>JC Vdsquez-Correa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>JC Vdsquez-Correa</title>
+      <link>https://jcvasquezc.github.io/authors/jc-vdsquez-correa/</link>
+    </image>
+    
+    <item>
+      <title>Towards an automatic monitoring of the neurological state of Parkinson&#39;s patients from speech</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

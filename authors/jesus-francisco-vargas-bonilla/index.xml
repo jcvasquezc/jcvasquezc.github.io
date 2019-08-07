@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesús Francisco Vargas-Bonilla | Academic</title>
+    <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesús Francisco Vargas-Bonilla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <title>Jesús Francisco Vargas-Bonilla</title>
+      <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
+    </image>
+    
+    <item>
+      <title>NeuroSpeech: An open-source software for Parkinson&#39;s speech analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of acoustic conditions on algorithms to detect Parkinson&#39;s disease from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-effect/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of hypernasal speech of children with cleft lip and palate from spanish vowels and words using classical measures and nonlinear analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-dependent gmm-ubm for tracking parkinson&#39;s disease progression from speech</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2016-gender/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2016-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkinson&#39;s Disease Progression Assessment from Speech Using GMM-UBM.</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2016-parkinson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2016-parkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic monitoring of the neurological state of Parkinson&#39;s patients from speech</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet-based time-frequency representations for automatic recognition of emotions from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of Parkinson&#39;s disease from continuous speech recorded in non-controlled noise conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech under environmental noise conditions using wavelet decomposition</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time dependent ARMA for automatic recognition of fear-type emotions in speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-time/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of wavelet measures on automatic detection of emotion in noisy and telephony speech signals</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New computer aided device for real time analysis of speech of people with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-new/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
