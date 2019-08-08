@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Rafael Orozco-Arroyave</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.png</url>
       <title>Juan Rafael Orozco-Arroyave</title>
       <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
     </image>
+    
+    <item>
+      <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rios-2019-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Non-linear Dynamics Approach to Classify Gait Signals of Patients with Parkinson’s Disease</title>
@@ -21,10 +29,18 @@
     </item>
     
     <item>
-      <title>Automatic Intelligibility Assessment of Parkinson’s Disease with Diadochokinetic Exercises</title>
+      <title>Automatic Intelligibility Assessment of Parkinson&#39;s Disease with Diadochokinetic Exercises</title>
       <link>https://jcvasquezc.github.io/publication/parra-2018-automatic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/parra-2018-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network to Model Articulation Impairments in Patients with Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</guid>
       <description></description>
     </item>
     
@@ -33,6 +49,14 @@
       <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal assessment of Parkinson&#39;s disease: a deep learning approach</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</guid>
       <description></description>
     </item>
     
@@ -65,6 +89,14 @@
       <link>https://jcvasquezc.github.io/publication/arias-2018-speaker/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/arias-2018-speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic evaluation of the dysarthria level of patients with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</guid>
       <description></description>
     </item>
     
@@ -117,7 +149,7 @@
     </item>
     
     <item>
-      <title>Multi-view representation learning via gcca for multimodal analysis of Parkinson&#39;s disease</title>
+      <title>Multi-view representation learning via GCCA for multimodal analysis of Parkinson&#39;s disease</title>
       <link>https://jcvasquezc.github.io/publication/vasquez-2017-multi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2017-multi/</guid>
@@ -173,6 +205,14 @@
     </item>
     
     <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parkinson&#39;s Disease Progression Assessment from Speech Using GMM-UBM.</title>
       <link>https://jcvasquezc.github.io/publication/arias-2016-parkinson/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -193,6 +233,14 @@
       <link>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word accuracy and dynamic time warping to assess intelligibility deficits in patients with parkinsons disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-word/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-word/</guid>
       <description></description>
     </item>
     
@@ -249,6 +297,14 @@
       <link>https://jcvasquezc.github.io/publication/vasquez-2014-new/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2014-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of an embedded system for real time analysis of speech from people with parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2013-design/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2013-design/</guid>
       <description></description>
     </item>
     

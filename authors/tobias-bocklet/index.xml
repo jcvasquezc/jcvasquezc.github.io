@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/tobias-bocklet/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias Bocklet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.png</url>
       <title>Tobias Bocklet</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Multi-view representation learning via gcca for multimodal analysis of Parkinson&#39;s disease</title>
+      <title>Towards an automatic evaluation of the dysarthria level of patients with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view representation learning via GCCA for multimodal analysis of Parkinson&#39;s disease</title>
       <link>https://jcvasquezc.github.io/publication/vasquez-2017-multi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2017-multi/</guid>

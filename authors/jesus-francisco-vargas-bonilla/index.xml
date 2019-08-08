@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/index.xml" rel="self" type="application/rss+xml" />
     <description>Jesus Francisco Várgas-Bonilla</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.png</url>
       <title>Jesus Francisco Várgas-Bonilla</title>
       <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
     </image>
+    
+    <item>
+      <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rios-2019-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NeuroSpeech: An open-source software for Parkinson&#39;s speech analysis</title>
@@ -41,6 +49,14 @@
       <link>https://jcvasquezc.github.io/publication/arias-2016-gender/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/arias-2016-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
       <description></description>
     </item>
     
@@ -121,6 +137,14 @@
       <link>https://jcvasquezc.github.io/publication/vasquez-2014-new/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2014-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of an embedded system for real time analysis of speech from people with parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2013-design/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2013-design/</guid>
       <description></description>
     </item>
     
