@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health-care | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/health-care/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/health-care/index.xml" rel="self" type="application/rss+xml" />
+    <description>health-care</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>health-care</title>
+      <link>https://jcvasquezc.github.io/tags/health-care/</link>
+    </image>
+    
+    <item>
+      <title>Conexion Salud</title>
+      <link>https://jcvasquezc.github.io/project/conexion-salud/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/conexion-salud/</guid>
+      <description>&lt;p&gt;Study to measure the level of Communication and information technologies (TICs) in  the public Health Services institutions of Colombia.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://jcvasquezc.github.io/img/conexion.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VOT</title>
+      <link>https://jcvasquezc.github.io/project/vot/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/vot/</guid>
+      <description>&lt;p&gt;Automatic detection of voiced onset time (VOT) for assessment of pathological speech&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 Third Frederick Jelinek Memorial Summer Workshop</title>
+      <link>https://jcvasquezc.github.io/project/remote/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/remote/</guid>
+      <description>&lt;p&gt;Alzheimer’s disease (AD) is the most common neurodegenerative disorder. It generally deteriorates memory function, then language, then executive function to the point where simple activities of daily living (ADLs) become difficult. Parkinson’s disease (PD) is the second most common neurodegenerative disease, also primarily affecting individuals of advanced age. Its cardinal symptoms include akinesia, tremor, rigidity, and postural imbalance. Together, AD and PD afflict approximately 55 million people, and there is no cure. Currently, professional or informal caregivers look after these individuals, either at home or in long-term care facilities. Caregiving is already a great, expensive burden on the system, but things will soon become far worse. Populations of many nations are aging rapidly and, with over 12% of people above the age of 65 having either AD or PD, incidence rates are set to triple over the next few decades. Monitoring and assessment are vital, but current models are unsustainable. Patients need to be monitored regularly (e.g. to check if medication needs to be updated), which is expensive, time-consuming, and especially difficult when travelling to the closest neurologist is unrealistic. Monitoring patients using non-intrusive sensors to collect data during ADLs from speech, gait, and handwriting, can help to reduce the burden.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal PD</title>
+      <link>https://jcvasquezc.github.io/project/multimodal/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/multimodal/</guid>
+      <description>&lt;p&gt;The main aim of this project is to develop a method to evaluate the motor impairments and the neurological state of patients with Parkinson&amp;rsquo;s Disease using three bio-signals: speech, handwriting and gait. This research work is suitable for the development of computer aided tools to evaluate the motor impairments of patients with different neurodegenerative disorders considering information from different bio&amp;ndash;signals to take accurate decisions about the treatment of the patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAPAS</title>
+      <link>https://jcvasquezc.github.io/project/tapas/</link>
+      <pubDate>Sat, 10 Aug 2019 06:06:17 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/tapas/</guid>
+      <description>&lt;p&gt;There are an increasing number of people across Europe with debilitating speech pathologies (e.g., due to stroke, Parkinson&amp;rsquo;s, etc). These groups face communication problems that can lead to social exclusion. They are now being further marginalised by a new wave of speech technology that is increasingly woven into everyday life but which is not robust to atypical speech. TAPAS is a Horizon 2020 Marie Skłodowska-Curie Actions Innovative Training Network European Training Network (MSCA-ITN-ETN) project that aims to transform the well being of these people. The TAPAS work programme targets three key research problems: &lt;b&gt;(a)&lt;/b&gt; Detection: We will develop speech processing techniques for early detection of conditions that impact on speech production. The outcomes will be cheap and non-invasive diagnostic tools that provide early warning of the onset of progressive conditions such as Alzheimer&amp;rsquo;s and Parkinson&amp;rsquo;s. &lt;b&gt;(b)&lt;/b&gt; Therapy: We will use newly-emerging speech processing techniques to produce automated speech therapy tools. These tools will make therapy more accessible and more individually targeted. Better therapy can increase the chances of recovering intelligible speech after traumatic events such a stroke or oral surgery. &lt;b&gt;&amp;copy;&lt;/b&gt; Assisted Living: We will re-design current speech technology so that it works well for people with speech impairments and also helps in making informed clinical choices. People with speech impairments often have other co-occurring conditions making them reliant on carers. Speech-driven tools for assisted-living are a way to allow such people to live more independently. TAPAS adopts an inter-disciplinary and multi-sectorial approach. The consortium includes clinical practitioners, academic researchers and industrial partners, with expertise spanning speech engineering, linguistics and clinical science. All members have expertise in some element of pathological speech. This rich network will train a new generation of 15 researchers, equipping them with the skills and resources necessary for lasting success.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PD speech</title>
+      <link>https://jcvasquezc.github.io/project/pdspeech/</link>
+      <pubDate>Sat, 10 Aug 2013 09:10:11 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/pdspeech/</guid>
+      <description>&lt;p&gt;Parkinson&amp;rsquo;s Disease (PD) is the second neurological condition more prevalent after Alheimer. It is fundamental identify early markers of the disease.  90% of people with PD present speech disorders, but only from 3% to 4% recieve speech treatment. In this project will be developed methodologies based on signal processing to establish if the speech signals represent an early marker of PD. Also will be applied machine learning techniques to develop methodologies that allow make an objective following about of speech quality in patients with PD.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

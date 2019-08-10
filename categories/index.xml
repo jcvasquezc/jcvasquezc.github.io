@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Academic</title>
+    <title>Categories | Juan Camilo Vasquez Correa</title>
     <link>https://jcvasquezc.github.io/categories/</link>
       <atom:link href="https://jcvasquezc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 06:29:33 -0500</lastBuildDate>
     <image>
-      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Categories</title>
       <link>https://jcvasquezc.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://jcvasquezc.github.io/categories/deep-learning/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health-care</title>
+      <link>https://jcvasquezc.github.io/categories/health-care/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/categories/health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://jcvasquezc.github.io/categories/machine-learning/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing</title>
+      <link>https://jcvasquezc.github.io/categories/signal-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/categories/signal-processing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

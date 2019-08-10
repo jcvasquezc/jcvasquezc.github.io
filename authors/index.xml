@@ -1,16 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Juan Camilo Vasquez Correa</title>
     <link>https://jcvasquezc.github.io/authors/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
-      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Authors</title>
       <link>https://jcvasquezc.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>COLCIENCIAS</title>
+      <link>https://jcvasquezc.github.io/authors/colciencias/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/colciencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colombian Ministry of Communication Technologies</title>
+      <link>https://jcvasquezc.github.io/authors/colombian-ministry-of-communication-technologies/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/colombian-ministry-of-communication-technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GITA research group, University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic department, University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/linguistic-department-university-of-antioquia/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/linguistic-department-university-of-antioquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSLP from Jhons Hopkins University</title>
+      <link>https://jcvasquezc.github.io/authors/cslp-from-jhons-hopkins-university/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/cslp-from-jhons-hopkins-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern recognition Lab, Friedrich Alexander University (FAU)</title>
+      <link>https://jcvasquezc.github.io/authors/pattern-recognition-lab-friedrich-alexander-university-fau/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/pattern-recognition-lab-friedrich-alexander-university-fau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Sheffield</title>
+      <link>https://jcvasquezc.github.io/authors/university-of-sheffield/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/university-of-sheffield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Toronto</title>
+      <link>https://jcvasquezc.github.io/authors/university-of-toronto/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/university-of-toronto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GITA research group, Unversity of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/gita-research-group-unversity-of-antioquia/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/gita-research-group-unversity-of-antioquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Union</title>
+      <link>https://jcvasquezc.github.io/authors/european-union/</link>
+      <pubDate>Sat, 10 Aug 2019 06:06:17 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/european-union/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>C Högerle</title>
@@ -69,7 +149,7 @@
     </item>
     
     <item>
-      <title>Jesus Francisco Várgas-Bonilla</title>
+      <title>Jesús Francisco Vargas-Bonilla</title>
       <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</guid>
@@ -381,7 +461,7 @@
     </item>
     
     <item>
-      <title>Julian David Arias-Londono</title>
+      <title>Julián David Arias-Londono</title>
       <link>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</guid>
@@ -433,6 +513,14 @@
       <link>https://jcvasquezc.github.io/authors/olga-lucia-quintero/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/olga-lucia-quintero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/university-of-antioquia/</link>
+      <pubDate>Sat, 10 Aug 2013 09:10:11 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/university-of-antioquia/</guid>
       <description></description>
     </item>
     

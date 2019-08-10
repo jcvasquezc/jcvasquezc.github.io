@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linguistic department, University of Antioquia | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/linguistic-department-university-of-antioquia/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/linguistic-department-university-of-antioquia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linguistic department, University of Antioquia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Linguistic department, University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/linguistic-department-university-of-antioquia/</link>
+    </image>
+    
+    <item>
+      <title>VOT</title>
+      <link>https://jcvasquezc.github.io/project/vot/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/vot/</guid>
+      <description>&lt;p&gt;Automatic detection of voiced onset time (VOT) for assessment of pathological speech&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

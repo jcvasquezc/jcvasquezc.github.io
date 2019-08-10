@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/categories/machine-learning/</link>
+      <atom:link href="https://jcvasquezc.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 06:29:33 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Machine learning</title>
+      <link>https://jcvasquezc.github.io/categories/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal PD</title>
+      <link>https://jcvasquezc.github.io/project/multimodal/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/multimodal/</guid>
+      <description>&lt;p&gt;The main aim of this project is to develop a method to evaluate the motor impairments and the neurological state of patients with Parkinson&amp;rsquo;s Disease using three bio-signals: speech, handwriting and gait. This research work is suitable for the development of computer aided tools to evaluate the motor impairments of patients with different neurodegenerative disorders considering information from different bio&amp;ndash;signals to take accurate decisions about the treatment of the patients.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

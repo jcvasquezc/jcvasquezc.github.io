@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/software/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Software</title>
+      <link>https://jcvasquezc.github.io/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>Conexion Salud</title>
+      <link>https://jcvasquezc.github.io/project/conexion-salud/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/conexion-salud/</guid>
+      <description>&lt;p&gt;Study to measure the level of Communication and information technologies (TICs) in  the public Health Services institutions of Colombia.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://jcvasquezc.github.io/img/conexion.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

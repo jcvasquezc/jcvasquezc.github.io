@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GITA research group, University of Antioquia | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/index.xml" rel="self" type="application/rss+xml" />
+    <description>GITA research group, University of Antioquia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>GITA research group, University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
+    </image>
+    
+    <item>
+      <title>Conexion Salud</title>
+      <link>https://jcvasquezc.github.io/project/conexion-salud/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/conexion-salud/</guid>
+      <description>&lt;p&gt;Study to measure the level of Communication and information technologies (TICs) in  the public Health Services institutions of Colombia.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://jcvasquezc.github.io/img/conexion.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VOT</title>
+      <link>https://jcvasquezc.github.io/project/vot/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/vot/</guid>
+      <description>&lt;p&gt;Automatic detection of voiced onset time (VOT) for assessment of pathological speech&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Speech</title>
+      <link>https://jcvasquezc.github.io/project/deep-speech/</link>
+      <pubDate>Sat, 10 Aug 2019 09:12:30 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/deep-speech/</guid>
+      <description>&lt;p&gt;Speech is the most natural method of communication among humans. The speech signals contain many traits that reflect suitable information from the speaker, including the identity, emotions, or the presence of diseases which alter the quality of life of patients.
+Automatic recognition of speech traits has many applications including the medical field; for instance, the detection, monitoring, and assessment of voice disorders allow the development of computer aided tools to support the diagnosis and evaluation/screening of patients; the recognition of emotions.
+Traditional machine learning methods to recognize speech traits are limited by their capability to process raw speech signals, i.e., without any preprocessing or any feature extraction. During several years, the deployment of suitable systems required the knowledge of an expert in a specific topic to obtain the most informative features to model the information from data, which consumes time and resources that are not always available. This project aims to develop and test different architectures of DNNs to perform the automatic detection of different traits in speech. Two different approaches will be addressed: (1) the raw speech signal will be considered as the input, and (2) several features will be extracted from the signals and those feature vectors will be the input of the system. We will compare both approaches in order to conclude to which extent it is possible to work only with the raw signal and obtain interpretable results such that can be used in the clinical practice.
+In this proposal, DNN-based methods will be considered to three different problems: (1) classification/detection of multiple voice disorders, (2) monitoring of patients, and (3) detection of emotions and other paralinguistic aspects from speech.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic recognition of emotions from speech</title>
+      <link>https://jcvasquezc.github.io/project/emotions/</link>
+      <pubDate>Sat, 10 Aug 2019 06:46:20 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/emotions/</guid>
+      <description>&lt;p&gt;Human emotions detection considering speech signals is a field that has attracted the attention of the research community since the last years. Several situations where the human integrity and security is at risk have been addressed; particularly the analysis of speech in emergency calls or in call-centers, are an interesting scenario. This project aimed to develop a methodology to classify different types of emotions such as anger, anxiety, disgust, and desperation, in scenarios where the speech signal is contaminated with noise or is coded by telephone channels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 Third Frederick Jelinek Memorial Summer Workshop</title>
+      <link>https://jcvasquezc.github.io/project/remote/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/remote/</guid>
+      <description>&lt;p&gt;Alzheimer’s disease (AD) is the most common neurodegenerative disorder. It generally deteriorates memory function, then language, then executive function to the point where simple activities of daily living (ADLs) become difficult. Parkinson’s disease (PD) is the second most common neurodegenerative disease, also primarily affecting individuals of advanced age. Its cardinal symptoms include akinesia, tremor, rigidity, and postural imbalance. Together, AD and PD afflict approximately 55 million people, and there is no cure. Currently, professional or informal caregivers look after these individuals, either at home or in long-term care facilities. Caregiving is already a great, expensive burden on the system, but things will soon become far worse. Populations of many nations are aging rapidly and, with over 12% of people above the age of 65 having either AD or PD, incidence rates are set to triple over the next few decades. Monitoring and assessment are vital, but current models are unsustainable. Patients need to be monitored regularly (e.g. to check if medication needs to be updated), which is expensive, time-consuming, and especially difficult when travelling to the closest neurologist is unrealistic. Monitoring patients using non-intrusive sensors to collect data during ADLs from speech, gait, and handwriting, can help to reduce the burden.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

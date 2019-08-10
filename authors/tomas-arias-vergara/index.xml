@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tomas Arias-Vergara | Academic</title>
+    <title>Tomas Arias-Vergara | Juan Camilo Vasquez Correa</title>
     <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/tomas-arias-vergara/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomas Arias-Vergara</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Tomas Arias-Vergara</title>
       <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
     </image>
+    
+    <item>
+      <title>A Multitask Learning Approach to Assess the Dysarthria Severity in Patients with Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Non-linear Dynamics Approach to Classify Gait Signals of Patients with Parkinson’s Disease</title>
@@ -25,14 +33,6 @@
       <link>https://jcvasquezc.github.io/publication/parra-2018-automatic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/parra-2018-automatic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convolutional Neural Network to Model Articulation Impairments in Patients with Parkinson&#39;s Disease.</title>
-      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</guid>
       <description></description>
     </item>
     

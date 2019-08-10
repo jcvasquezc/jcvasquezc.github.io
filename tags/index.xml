@@ -1,16 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
+    <title>Tags | Juan Camilo Vasquez Correa</title>
     <link>https://jcvasquezc.github.io/tags/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
-      <url>https://jcvasquezc.github.io/img/profile.png</url>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Tags</title>
       <link>https://jcvasquezc.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://jcvasquezc.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://jcvasquezc.github.io/tags/software/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech processing</title>
+      <link>https://jcvasquezc.github.io/tags/speech-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/speech-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health-care</title>
+      <link>https://jcvasquezc.github.io/tags/health-care/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 10 Aug 2019 09:12:30 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paralinguistics</title>
+      <link>https://jcvasquezc.github.io/tags/paralinguistics/</link>
+      <pubDate>Sat, 10 Aug 2019 09:12:30 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/paralinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language processing</title>
+      <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing</title>
+      <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health tech</title>
+      <link>https://jcvasquezc.github.io/tags/health-tech/</link>
+      <pubDate>Sat, 10 Aug 2019 06:06:17 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/health-tech/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

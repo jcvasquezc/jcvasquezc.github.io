@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Antioquia | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/university-of-antioquia/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/university-of-antioquia/index.xml" rel="self" type="application/rss+xml" />
+    <description>University of Antioquia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2013 09:10:11 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/university-of-antioquia/</link>
+    </image>
+    
+    <item>
+      <title>PD speech</title>
+      <link>https://jcvasquezc.github.io/project/pdspeech/</link>
+      <pubDate>Sat, 10 Aug 2013 09:10:11 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/pdspeech/</guid>
+      <description>&lt;p&gt;Parkinson&amp;rsquo;s Disease (PD) is the second neurological condition more prevalent after Alheimer. It is fundamental identify early markers of the disease.  90% of people with PD present speech disorders, but only from 3% to 4% recieve speech treatment. In this project will be developed methodologies based on signal processing to establish if the speech signals represent an early marker of PD. Also will be applied machine learning techniques to develop methodologies that allow make an objective following about of speech quality in patients with PD.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

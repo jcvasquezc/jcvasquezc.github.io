@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paralinguistics | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/paralinguistics/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/paralinguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paralinguistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:12:30 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Paralinguistics</title>
+      <link>https://jcvasquezc.github.io/tags/paralinguistics/</link>
+    </image>
+    
+    <item>
+      <title>Deep Speech</title>
+      <link>https://jcvasquezc.github.io/project/deep-speech/</link>
+      <pubDate>Sat, 10 Aug 2019 09:12:30 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/deep-speech/</guid>
+      <description>&lt;p&gt;Speech is the most natural method of communication among humans. The speech signals contain many traits that reflect suitable information from the speaker, including the identity, emotions, or the presence of diseases which alter the quality of life of patients.
+Automatic recognition of speech traits has many applications including the medical field; for instance, the detection, monitoring, and assessment of voice disorders allow the development of computer aided tools to support the diagnosis and evaluation/screening of patients; the recognition of emotions.
+Traditional machine learning methods to recognize speech traits are limited by their capability to process raw speech signals, i.e., without any preprocessing or any feature extraction. During several years, the deployment of suitable systems required the knowledge of an expert in a specific topic to obtain the most informative features to model the information from data, which consumes time and resources that are not always available. This project aims to develop and test different architectures of DNNs to perform the automatic detection of different traits in speech. Two different approaches will be addressed: (1) the raw speech signal will be considered as the input, and (2) several features will be extracted from the signals and those feature vectors will be the input of the system. We will compare both approaches in order to conclude to which extent it is possible to work only with the raw signal and obtain interpretable results such that can be used in the clinical practice.
+In this proposal, DNN-based methods will be considered to three different problems: (1) classification/detection of multiple voice disorders, (2) monitoring of patients, and (3) detection of emotions and other paralinguistic aspects from speech.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic recognition of emotions from speech</title>
+      <link>https://jcvasquezc.github.io/project/emotions/</link>
+      <pubDate>Sat, 10 Aug 2019 06:46:20 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/emotions/</guid>
+      <description>&lt;p&gt;Human emotions detection considering speech signals is a field that has attracted the attention of the research community since the last years. Several situations where the human integrity and security is at risk have been addressed; particularly the analysis of speech in emergency calls or in call-centers, are an interesting scenario. This project aimed to develop a methodology to classify different types of emotions such as anger, anxiety, disgust, and desperation, in scenarios where the speech signal is contaminated with noise or is coded by telephone channels.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

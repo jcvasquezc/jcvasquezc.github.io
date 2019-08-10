@@ -88,6 +88,20 @@
 
   
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-145400281-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
   
 
   
@@ -110,11 +124,11 @@
   <meta property="twitter:site" content="@jcvasquezc1">
   <meta property="twitter:creator" content="@jcvasquezc1">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="Juan Camilo Vasquez Correa">
   <meta property="og:url" content="https://jcvasquezc.github.io/publication/arias-2018-speaker/">
-  <meta property="og:title" content="Speaker models for monitoring Parkinson’s disease progression considering different communication channels and acoustic conditions | Academic">
-  <meta property="og:description" content="Symptoms of Parkinson’s disease vary from patient to patient. Additionally, the progression of those symptoms also differs among patients. Most of the studies on the analysis of speech of people with Parkinson’s disease do not consider such an individual variation. This paper presents a methodology for the automatic and individual monitoring of speech disorders developed by PD patients. The neurological state and dysarthria level of the patients are evaluated. The proposed system is based on individual speaker models which are created for each patient. Two different models are evaluated, the classical GMM–UBM and the i–vectors approach. These two methods are compared with respect to a baseline found with a traditional Support Vector Regressor. Different speech aspects (phonation, articulation, and prosody) are considered to model recordings of spontaneous speech and a read text. A multi-aspect coefficient is proposed with the aim of incorporating information from all of these speech aspects into a single measure. Two different scenarios are considered to assess a set with seven PD patients: (1) the longitudinal test set which consists of speech recordings captured in five recording sessions distributed from 2012 to 2016, and (2) the at-home test set which consists of speech recordings captured in the home of the same seven patients during 4 months (one day per month, four times per day). The UBM is trained with the recordings of 100 speakers (50 with Parkinson’s disease and 50 healthy speakers) captured with controlled acoustic conditions and a professional audio-setting. With the aim of evaluating the suitability of the proposed approaches and the possibility of extending this kind of systems to remotely assess the speech of the patients, a total of five different communication channels (sound-proof booth, Skype®, Hangouts®, mobile phone, and land-line) are considered to train and test the system. Due to the reduced number of recording sessions in the longitudinal test set, the experiments that involved this set are evaluated with the Pearson’s correlation. The experiments with the at-home test set are evaluated with the Spearman’s correlation. The results estimating the dysarthria level of the patients in the at-home test set indicate a correlation of 0.55 with a modified version of the Frenchay Dysarthria Assessment scale when the GMM-UBM model is applied upon the Skype® recordings. The results in the longitudinal test set indicate a correlation of 0.77 using a model based on i-vectors with recordings captured in the sound-proof-booth. The evaluation of the neurological state of the patients in the longitudinal test set shows correlations of up to 0.55 with the Movement Disorder Society - Unified Parkinson’s Disease Rating Scale also using models based on i-vectors created with Skype® recordings. These results suggest that the i–vector approach is suitable when the acoustic conditions among recording sessions differ (longitudinal test set). The GMM-UBM approach seems to be more suitable when the acoustic conditions do not change a lot among recording sessions (at-home test set). Particularly, the best results were obtained with the Skype® calls, which can be explained due to several preprocessing stages that this codec applies to the audio signals. In general, the results suggest that the proposed approaches are suitable for tele-monitoring the dysarthria level and the neurological state of PD patients"><meta property="og:image" content="https://jcvasquezc.github.io/img/profile.png">
-  <meta property="twitter:image" content="https://jcvasquezc.github.io/img/profile.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Speaker models for monitoring Parkinson’s disease progression considering different communication channels and acoustic conditions | Juan Camilo Vasquez Correa">
+  <meta property="og:description" content="Symptoms of Parkinson’s disease vary from patient to patient. Additionally, the progression of those symptoms also differs among patients. Most of the studies on the analysis of speech of people with Parkinson’s disease do not consider such an individual variation. This paper presents a methodology for the automatic and individual monitoring of speech disorders developed by PD patients. The neurological state and dysarthria level of the patients are evaluated. The proposed system is based on individual speaker models which are created for each patient. Two different models are evaluated, the classical GMM–UBM and the i–vectors approach. These two methods are compared with respect to a baseline found with a traditional Support Vector Regressor. Different speech aspects (phonation, articulation, and prosody) are considered to model recordings of spontaneous speech and a read text. A multi-aspect coefficient is proposed with the aim of incorporating information from all of these speech aspects into a single measure. Two different scenarios are considered to assess a set with seven PD patients: (1) the longitudinal test set which consists of speech recordings captured in five recording sessions distributed from 2012 to 2016, and (2) the at-home test set which consists of speech recordings captured in the home of the same seven patients during 4 months (one day per month, four times per day). The UBM is trained with the recordings of 100 speakers (50 with Parkinson’s disease and 50 healthy speakers) captured with controlled acoustic conditions and a professional audio-setting. With the aim of evaluating the suitability of the proposed approaches and the possibility of extending this kind of systems to remotely assess the speech of the patients, a total of five different communication channels (sound-proof booth, Skype®, Hangouts®, mobile phone, and land-line) are considered to train and test the system. Due to the reduced number of recording sessions in the longitudinal test set, the experiments that involved this set are evaluated with the Pearson’s correlation. The experiments with the at-home test set are evaluated with the Spearman’s correlation. The results estimating the dysarthria level of the patients in the at-home test set indicate a correlation of 0.55 with a modified version of the Frenchay Dysarthria Assessment scale when the GMM-UBM model is applied upon the Skype® recordings. The results in the longitudinal test set indicate a correlation of 0.77 using a model based on i-vectors with recordings captured in the sound-proof-booth. The evaluation of the neurological state of the patients in the longitudinal test set shows correlations of up to 0.55 with the Movement Disorder Society - Unified Parkinson’s Disease Rating Scale also using models based on i-vectors created with Skype® recordings. These results suggest that the i–vector approach is suitable when the acoustic conditions among recording sessions differ (longitudinal test set). The GMM-UBM approach seems to be more suitable when the acoustic conditions do not change a lot among recording sessions (at-home test set). Particularly, the best results were obtained with the Skype® calls, which can be explained due to several preprocessing stages that this codec applies to the audio signals. In general, the results suggest that the proposed approaches are suitable for tele-monitoring the dysarthria level and the neurological state of PD patients"><meta property="og:image" content="https://jcvasquezc.github.io/img/profile.jpeg">
+  <meta property="twitter:image" content="https://jcvasquezc.github.io/img/profile.jpeg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-08-07T14:57:01&#43;00:00">
@@ -131,7 +145,7 @@
 
 
 
-  <title>Speaker models for monitoring Parkinson’s disease progression considering different communication channels and acoustic conditions | Academic</title>
+  <title>Speaker models for monitoring Parkinson’s disease progression considering different communication channels and acoustic conditions | Juan Camilo Vasquez Correa</title>
 
 </head>
 
@@ -174,7 +188,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Juan Camilo Vasquez Correa</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -242,35 +256,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#media"><span>Media</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#post"><span>Posts</span></a>
         </li>
 
@@ -301,35 +286,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#software"><span>Software</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talk"><span>Talks</span></a>
         </li>
 
         
@@ -446,28 +402,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
