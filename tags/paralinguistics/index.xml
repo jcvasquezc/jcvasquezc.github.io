@@ -33,5 +33,61 @@ In this proposal, DNN-based methods will be considered to three different proble
 </description>
     </item>
     
+    <item>
+      <title>Emotion recognition from speech with acoustic, non-linear and wavelet-based features extracted in different acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet-based time-frequency representations for automatic recognition of emotions from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech under environmental noise conditions using wavelet decomposition</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time dependent ARMA for automatic recognition of fear-type emotions in speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-time/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of wavelet measures on automatic detection of emotion in noisy and telephony speech signals</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

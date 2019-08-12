@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:12:30 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Deep learning</title>
       <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Phonet</title>
+      <link>https://jcvasquezc.github.io/software/phonet/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/phonet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Speech</title>
@@ -31,6 +39,30 @@ In this proposal, DNN-based methods will be considered to three different proble
       <guid>https://jcvasquezc.github.io/project/multimodal/</guid>
       <description>&lt;p&gt;The main aim of this project is to develop a method to evaluate the motor impairments and the neurological state of patients with Parkinson&amp;rsquo;s Disease using three bio-signals: speech, handwriting and gait. This research work is suitable for the development of computer aided tools to evaluate the motor impairments of patients with different neurodegenerative disorders considering information from different bio&amp;ndash;signals to take accurate decisions about the treatment of the patients.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Multitask Learning Approach to Assess the Dysarthria Severity in Patients with Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal assessment of Parkinson&#39;s disease: a deep learning approach</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network to Model Articulation Impairments in Patients with Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-convolutional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-convolutional/</guid>
+      <description></description>
     </item>
     
   </channel>

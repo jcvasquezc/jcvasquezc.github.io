@@ -5,12 +5,74 @@
     <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Camilo Vásquez-Correa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Juan Camilo Vásquez-Correa</title>
       <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
     </image>
+    
+    <item>
+      <title>Apkinson</title>
+      <link>https://jcvasquezc.github.io/software/apkinson/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/apkinson/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Apkinson1.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;
+&lt;img src=&#34;Apkinson2.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br /&gt;
+At the end of the exercise session, Apkinson evaluates the performance of the patient, while it keeps a register of the results from previous sessions. This analysis will allow the assessment of the progress of the disease of the patients.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://jcvasquezc.github.io/img/video_apkinson.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disvoice</title>
+      <link>https://jcvasquezc.github.io/software/disvoice/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/disvoice/</guid>
+      <description>&lt;p&gt;DisVoice is a python framework designed to compute features from pathological speech. Disvoice computes phonation articulation, and prosody-based features both from sustained vowels and continuous speech utterances with the aim to evaluate the communication capabilities of patients with different voice disorders including diseases with functional origin such as larinx cancer or nodules; craneo-facial based disorders such as hipernasality developed by cleft-lip and palate; or neurodegenerative disorders such as Parkinson&amp;rsquo;s disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neurospeech</title>
+      <link>https://jcvasquezc.github.io/software/neurospeech/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/neurospeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonet</title>
+      <link>https://jcvasquezc.github.io/software/phonet/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/phonet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
@@ -109,7 +171,7 @@
     </item>
     
     <item>
-      <title>Unobtrusive Monitoring of Speech Impairments of Parkinson&#39;S Disease Patients Through Mobile Devices</title>
+      <title>Unobtrusive Monitoring of Speech Impairments of Parkinson&#39;s Disease Patients Through Mobile Devices</title>
       <link>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</guid>

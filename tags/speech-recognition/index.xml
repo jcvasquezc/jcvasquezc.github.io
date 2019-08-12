@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech recognition | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/speech-recognition/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/speech-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Speech recognition</title>
+      <link>https://jcvasquezc.github.io/tags/speech-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Automated Cross-language Intelligibility Analysis of Parkinson’s Disease Patients Using Speech Recognition Technologies</title>
+      <link>https://jcvasquezc.github.io/publication/hosseini-2019-automated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/hosseini-2019-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Intelligibility Assessment of Parkinson&#39;s Disease with Diadochokinetic Exercises</title>
+      <link>https://jcvasquezc.github.io/publication/parra-2018-automatic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/parra-2018-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic monitoring of the neurological state of Parkinson&#39;s patients from speech</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word accuracy and dynamic time warping to assess intelligibility deficits in patients with parkinsons disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-word/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-word/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

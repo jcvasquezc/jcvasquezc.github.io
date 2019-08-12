@@ -5,12 +5,29 @@
     <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Signal processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 06:29:33 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Signal processing</title>
       <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
     </image>
+    
+    <item>
+      <title>Disvoice</title>
+      <link>https://jcvasquezc.github.io/software/disvoice/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/disvoice/</guid>
+      <description>&lt;p&gt;DisVoice is a python framework designed to compute features from pathological speech. Disvoice computes phonation articulation, and prosody-based features both from sustained vowels and continuous speech utterances with the aim to evaluate the communication capabilities of patients with different voice disorders including diseases with functional origin such as larinx cancer or nodules; craneo-facial based disorders such as hipernasality developed by cleft-lip and palate; or neurodegenerative disorders such as Parkinson&amp;rsquo;s disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neurospeech</title>
+      <link>https://jcvasquezc.github.io/software/neurospeech/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/neurospeech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal PD</title>

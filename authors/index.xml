@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title> others</title>
+      <link>https://jcvasquezc.github.io/authors/others/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>COLCIENCIAS</title>
       <link>https://jcvasquezc.github.io/authors/colciencias/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
@@ -33,6 +41,30 @@
       <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesús Francisco Vargas-Bonilla</title>
+      <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Camilo Vásquez-Correa</title>
+      <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Rafael Orozco-Arroyave</title>
+      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
       <description></description>
     </item>
     
@@ -149,30 +181,6 @@
     </item>
     
     <item>
-      <title>Jesús Francisco Vargas-Bonilla</title>
-      <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Camilo Vásquez-Correa</title>
-      <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Rafael Orozco-Arroyave</title>
-      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M Schuster</title>
       <link>https://jcvasquezc.github.io/authors/m-schuster/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -209,14 +217,6 @@
       <link>https://jcvasquezc.github.io/authors/t-arias-vergara/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/t-arias-vergara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> others</title>
-      <link>https://jcvasquezc.github.io/authors/others/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/others/</guid>
       <description></description>
     </item>
     
@@ -461,7 +461,7 @@
     </item>
     
     <item>
-      <title>Julián David Arias-Londono</title>
+      <title>Julian David Arias-Londoño</title>
       <link>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</guid>
@@ -529,7 +529,8 @@
       <link>https://jcvasquezc.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I have been performing research and development (R&amp;amp;D) activities related to signal processing and machine learning for applications in healthcare and biometrics since five years now, both in academic and industrial partners like Telefónica research or the center of speech and language processing of Jhons Hopkins University.&lt;/p&gt;
+      <description>&lt;p&gt;I have performed research and development (R&amp;amp;D) activities related to signal processing and machine learning for health-care and biometric applications since five years now, both in academic and industrial partners.
+Currently working as a researcher at the &lt;a href=&#34;https://www5.cs.fau.de/&#34; target=&#34;_blank&#34;&gt;Pattern recognition Lab&lt;/a&gt; from the Friedrich Alexander Universtity. Passionate about Machine learning, deep learning, speech processing, and natural language processing technologies.&lt;/p&gt;
 </description>
     </item>
     

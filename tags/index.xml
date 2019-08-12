@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Android</title>
+      <link>https://jcvasquezc.github.io/tags/android/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health care</title>
+      <link>https://jcvasquezc.github.io/tags/health-care/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keras</title>
+      <link>https://jcvasquezc.github.io/tags/keras/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning</title>
       <link>https://jcvasquezc.github.io/tags/machine-learning/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile apps</title>
+      <link>https://jcvasquezc.github.io/tags/mobile-apps/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/mobile-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement analysis</title>
+      <link>https://jcvasquezc.github.io/tags/movement-analysis/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/movement-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jcvasquezc.github.io/tags/python/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing</title>
+      <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/signal-processing/</guid>
       <description></description>
     </item>
     
@@ -37,18 +101,10 @@
     </item>
     
     <item>
-      <title>health-care</title>
-      <link>https://jcvasquezc.github.io/tags/health-care/</link>
+      <title>recurrent neural networks</title>
+      <link>https://jcvasquezc.github.io/tags/recurrent-neural-networks/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/health-care/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep learning</title>
-      <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 10 Aug 2019 09:12:30 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/deep-learning/</guid>
+      <guid>https://jcvasquezc.github.io/tags/recurrent-neural-networks/</guid>
       <description></description>
     </item>
     
@@ -69,18 +125,130 @@
     </item>
     
     <item>
-      <title>Signal processing</title>
-      <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
-      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/signal-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Health tech</title>
       <link>https://jcvasquezc.github.io/tags/health-tech/</link>
       <pubDate>Sat, 10 Aug 2019 06:06:17 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/tags/health-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaldi</title>
+      <link>https://jcvasquezc.github.io/tags/kaldi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/kaldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech recognition</title>
+      <link>https://jcvasquezc.github.io/tags/speech-recognition/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/speech-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>handwriting analysis</title>
+      <link>https://jcvasquezc.github.io/tags/handwriting-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/handwriting-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-linear dynamics</title>
+      <link>https://jcvasquezc.github.io/tags/non-linear-dynamics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/non-linear-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson</title>
+      <link>https://jcvasquezc.github.io/tags/apkinson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/apkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational linguistics</title>
+      <link>https://jcvasquezc.github.io/tags/computational-linguistics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/computational-linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inertial sensors</title>
+      <link>https://jcvasquezc.github.io/tags/inertial-sensors/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/inertial-sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional neural networks</title>
+      <link>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i-vectors</title>
+      <link>https://jcvasquezc.github.io/tags/i-vectors/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/i-vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multitask learning</title>
+      <link>https://jcvasquezc.github.io/tags/multitask-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/multitask-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user-modeling</title>
+      <link>https://jcvasquezc.github.io/tags/user-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/user-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelets</title>
+      <link>https://jcvasquezc.github.io/tags/wavelets/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/wavelets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representation learning</title>
+      <link>https://jcvasquezc.github.io/tags/representation-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition</title>
+      <link>https://jcvasquezc.github.io/tags/emotion-recognition/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/emotion-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech enhancement</title>
+      <link>https://jcvasquezc.github.io/tags/speech-enhancement/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/speech-enhancement/</guid>
       <description></description>
     </item>
     

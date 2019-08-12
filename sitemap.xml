@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jcvasquezc.github.io/authors/others/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/android/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/software/apkinson/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/authors/</loc>
     <lastmod>2019-08-10T09:20:18-05:00</lastmod>
     <priority>0</priority>
@@ -26,13 +43,54 @@
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/software/disvoice/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</loc>
     <lastmod>2019-08-10T09:20:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/health-care/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/keras/</loc>
     <lastmod>2019-08-10T09:20:18-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -50,13 +108,53 @@
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/mobile-apps/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/movement-analysis/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/software/neurospeech/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/software/phonet/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/project/</loc>
     <lastmod>2019-08-10T09:20:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/python/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/signal-processing/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/tags/software/</loc>
+    <lastmod>2019-08-10T09:20:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/software/</loc>
     <lastmod>2019-08-10T09:20:18-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -79,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://jcvasquezc.github.io/tags/health-care/</loc>
+    <loc>https://jcvasquezc.github.io/tags/recurrent-neural-networks/</loc>
     <lastmod>2019-08-10T09:20:18-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -87,12 +185,6 @@
   <url>
     <loc>https://jcvasquezc.github.io/project/deep-speech/</loc>
     <lastmod>2019-08-10T09:12:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jcvasquezc.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-08-10T09:12:30-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -183,12 +275,6 @@
   </url>
   
   <url>
-    <loc>https://jcvasquezc.github.io/tags/signal-processing/</loc>
-    <lastmod>2019-08-10T06:29:33-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcvasquezc.github.io/authors/european-union/</loc>
     <lastmod>2019-08-10T06:06:17-05:00</lastmod>
     <priority>0</priority>
@@ -270,19 +356,7 @@
   </url>
   
   <url>
-    <loc>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</loc>
+    <loc>https://jcvasquezc.github.io/tags/kaldi/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -328,14 +402,26 @@
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/speech-recognition/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/authors/t-arias-vergara/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jcvasquezc.github.io/authors/others/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://jcvasquezc.github.io/tags/handwriting-analysis/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/non-linear-dynamics/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -350,12 +436,24 @@
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/apkinson/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/publication/parra-2018-automatic/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jcvasquezc.github.io/authors/bjorn-eskofier/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/computational-linguistics/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -374,6 +472,12 @@
   
   <url>
     <loc>https://jcvasquezc.github.io/authors/heidi-christensen/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/inertial-sensors/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -503,6 +607,30 @@
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/i-vectors/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/multitask-learning/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/user-modeling/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -601,6 +729,18 @@
   </url>
   
   <url>
+    <loc>https://jcvasquezc.github.io/tags/wavelets/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/representation-learning/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcvasquezc.github.io/publication_types/6/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -619,6 +759,12 @@
   
   <url>
     <loc>https://jcvasquezc.github.io/authors/elmar-noeth/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/emotion-recognition/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -743,6 +889,12 @@
   
   <url>
     <loc>https://jcvasquezc.github.io/authors/olga-lucia-quintero/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcvasquezc.github.io/tags/speech-enhancement/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

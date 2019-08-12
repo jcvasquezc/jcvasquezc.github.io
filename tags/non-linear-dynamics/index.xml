@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>non-linear dynamics | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/non-linear-dynamics/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/non-linear-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>non-linear dynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>non-linear dynamics</title>
+      <link>https://jcvasquezc.github.io/tags/non-linear-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rios-2019-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-linear Dynamics Approach to Classify Gait Signals of Patients with Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2018-non/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2018-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of hypernasal speech of children with cleft lip and palate from spanish vowels and words using classical measures and nonlinear analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech with acoustic, non-linear and wavelet-based features extracted in different acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

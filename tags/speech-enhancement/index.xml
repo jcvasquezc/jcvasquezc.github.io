@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech enhancement | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/speech-enhancement/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/speech-enhancement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech enhancement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Speech enhancement</title>
+      <link>https://jcvasquezc.github.io/tags/speech-enhancement/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of the effects of speech enhancement algorithms on the detection of fundamental frequency of speech</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

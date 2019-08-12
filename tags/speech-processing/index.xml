@@ -13,6 +13,68 @@
     </image>
     
     <item>
+      <title>Apkinson</title>
+      <link>https://jcvasquezc.github.io/software/apkinson/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/apkinson/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Apkinson1.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;
+&lt;img src=&#34;Apkinson2.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br /&gt;
+At the end of the exercise session, Apkinson evaluates the performance of the patient, while it keeps a register of the results from previous sessions. This analysis will allow the assessment of the progress of the disease of the patients.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://jcvasquezc.github.io/img/video_apkinson.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disvoice</title>
+      <link>https://jcvasquezc.github.io/software/disvoice/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/disvoice/</guid>
+      <description>&lt;p&gt;DisVoice is a python framework designed to compute features from pathological speech. Disvoice computes phonation articulation, and prosody-based features both from sustained vowels and continuous speech utterances with the aim to evaluate the communication capabilities of patients with different voice disorders including diseases with functional origin such as larinx cancer or nodules; craneo-facial based disorders such as hipernasality developed by cleft-lip and palate; or neurodegenerative disorders such as Parkinson&amp;rsquo;s disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neurospeech</title>
+      <link>https://jcvasquezc.github.io/software/neurospeech/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/neurospeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonet</title>
+      <link>https://jcvasquezc.github.io/software/phonet/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/software/phonet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VOT</title>
       <link>https://jcvasquezc.github.io/project/vot/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
@@ -61,12 +123,308 @@ In this proposal, DNN-based methods will be considered to three different proble
     </item>
     
     <item>
+      <title>Automated Cross-language Intelligibility Analysis of Parkinson’s Disease Patients Using Speech Recognition Technologies</title>
+      <link>https://jcvasquezc.github.io/publication/hosseini-2019-automated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/hosseini-2019-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech differences between CI users with pre-and postlingual onset of deafness detected by speech processing methods on voiceless to voice transitions</title>
+      <link>https://jcvasquezc.github.io/publication/vergara-2019-speech/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vergara-2019-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multitask Learning Approach to Assess the Dysarthria Severity in Patients with Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multitask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Intelligibility Assessment of Parkinson&#39;s Disease with Diadochokinetic Exercises</title>
+      <link>https://jcvasquezc.github.io/publication/parra-2018-automatic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/parra-2018-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal assessment of Parkinson&#39;s disease: a deep learning approach</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroSpeech: An open-source software for Parkinson&#39;s speech analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2018-neurospeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonological i-Vectors to Detect Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2018-phonological/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2018-phonological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker models for monitoring Parkinson’s disease progression considering different communication channels and acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2018-speaker/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2018-speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic evaluation of the dysarthria level of patients with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unobtrusive Monitoring of Speech Impairments of Parkinson&#39;s Disease Patients Through Mobile Devices</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2018-unobtrusive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson-A Mobile Monitoring Solution for Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/klumpp-2017-apkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterisation of voice quality of Parkinson’s disease using differential phonological posterior features</title>
+      <link>https://jcvasquezc.github.io/publication/cernak-2017-characterisation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/cernak-2017-characterisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network to Model Articulation Impairments in Patients with Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-convolutional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of acoustic conditions on algorithms to detect Parkinson&#39;s disease from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-effect/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language independent assessment of motor impairments of patients with Parkinson’s disease using i-vectors</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2017-language/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2017-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view representation learning via GCCA for multimodal analysis of Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-multi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the impact of non-modal phonation on phonological features</title>
+      <link>https://jcvasquezc.github.io/publication/cernak-2017-impact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/cernak-2017-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkinson&#39;s disease and aging: analysis of their effect in phonation and articulation of speech</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2017-parkinson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2017-parkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonation and Articulation Analyses in Laryngeal Pathologies, Cleft Lip and Palate, and Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/jimenez-2017-phonation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/jimenez-2017-phonation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker Model to Monitor the Neurological State and the Dysarthria Level of Patients with Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-speaker/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of hypernasal speech of children with cleft lip and palate from spanish vowels and words using classical measures and nonlinear analysis</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech with acoustic, non-linear and wavelet-based features extracted in different acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender-dependent gmm-ubm for tracking parkinson&#39;s disease progression from speech</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2016-gender/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2016-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkinson&#39;s Disease Progression Assessment from Speech Using GMM-UBM.</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2016-parkinson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2016-parkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an automatic monitoring of the neurological state of Parkinson&#39;s patients from speech</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2016-towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2016-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet-based time-frequency representations for automatic recognition of emotions from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word accuracy and dynamic time warping to assess intelligibility deficits in patients with parkinsons disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-word/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of Parkinson&#39;s disease from continuous speech recorded in non-controlled noise conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic emotion recognition in compressed speech using acoustic and non-linear features</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2015-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech under environmental noise conditions using wavelet decomposition</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time dependent ARMA for automatic recognition of fear-type emotions in speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-time/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the effects of speech enhancement algorithms on the detection of fundamental frequency of speech</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of wavelet measures on automatic detection of emotion in noisy and telephony speech signals</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New computer aided device for real time analysis of speech of people with Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-new/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PD speech</title>
       <link>https://jcvasquezc.github.io/project/pdspeech/</link>
       <pubDate>Sat, 10 Aug 2013 09:10:11 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/project/pdspeech/</guid>
       <description>&lt;p&gt;Parkinson&amp;rsquo;s Disease (PD) is the second neurological condition more prevalent after Alheimer. It is fundamental identify early markers of the disease.  90% of people with PD present speech disorders, but only from 3% to 4% recieve speech treatment. In this project will be developed methodologies based on signal processing to establish if the speech signals represent an early marker of PD. Also will be applied machine learning techniques to develop methodologies that allow make an objective following about of speech quality in patients with PD.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of an embedded system for real time analysis of speech from people with parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2013-design/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2013-design/</guid>
+      <description></description>
     </item>
     
   </channel>

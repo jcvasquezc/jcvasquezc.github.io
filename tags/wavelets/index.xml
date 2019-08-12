@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wavelets | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/tags/wavelets/</link>
+      <atom:link href="https://jcvasquezc.github.io/tags/wavelets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wavelets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Wavelets</title>
+      <link>https://jcvasquezc.github.io/tags/wavelets/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional Neural Network to Model Articulation Impairments in Patients with Parkinson&#39;s Disease.</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2017-convolutional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2017-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech with acoustic, non-linear and wavelet-based features extracted in different acoustic conditions</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear dynamics characterization from wavelet packet transform for automatic recognition of emotional speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelet-based time-frequency representations for automatic recognition of emotions from speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2016-wavelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion recognition from speech under environmental noise conditions using wavelet decomposition</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2015-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of wavelet measures on automatic detection of emotion in noisy and telephony speech signals</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2014-evaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
