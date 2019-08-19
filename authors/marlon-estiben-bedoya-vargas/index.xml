@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/authors/marlon-estiben-bedoya-vargas/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/marlon-estiben-bedoya-vargas/index.xml" rel="self" type="application/rss+xml" />
     <description>Marlon Estiben Bedoya-Vargas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Marlon Estiben Bedoya-Vargas</title>
       <link>https://jcvasquezc.github.io/authors/marlon-estiben-bedoya-vargas/</link>
     </image>
+    
+    <item>
+      <title>Representaciones en Tiempo-Frecuencia en señales de marcha para la detección automática de la enfermedad de Parkinson</title>
+      <link>https://jcvasquezc.github.io/teaching/marlon-bedoya/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/teaching/marlon-bedoya/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Representaciones tiempo-frecuencia basadas en sensores inerciales para caracterizar la marcha en la enfermedad de Parkinson</title>

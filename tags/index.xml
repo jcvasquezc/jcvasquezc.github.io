@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Biometrics</title>
+      <link>https://jcvasquezc.github.io/tags/biometrics/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/biometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep learning</title>
       <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
@@ -29,10 +37,10 @@
     </item>
     
     <item>
-      <title>Health care</title>
-      <link>https://jcvasquezc.github.io/tags/health-care/</link>
+      <title>Inertial sensors</title>
+      <link>https://jcvasquezc.github.io/tags/inertial-sensors/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/health-care/</guid>
+      <guid>https://jcvasquezc.github.io/tags/inertial-sensors/</guid>
       <description></description>
     </item>
     
@@ -41,6 +49,14 @@
       <link>https://jcvasquezc.github.io/tags/keras/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keystroke dynamics</title>
+      <link>https://jcvasquezc.github.io/tags/keystroke-dynamics/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/keystroke-dynamics/</guid>
       <description></description>
     </item>
     
@@ -65,6 +81,14 @@
       <link>https://jcvasquezc.github.io/tags/movement-analysis/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/tags/movement-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language processing</title>
+      <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -101,6 +125,46 @@
     </item>
     
     <item>
+      <title>Wavelets</title>
+      <link>https://jcvasquezc.github.io/tags/wavelets/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/wavelets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional neural network</title>
+      <link>https://jcvasquezc.github.io/tags/convolutional-neural-network/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional neural networks</title>
+      <link>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health-care</title>
+      <link>https://jcvasquezc.github.io/tags/health-care/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-linear dynamics</title>
+      <link>https://jcvasquezc.github.io/tags/non-linear-dynamics/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/non-linear-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>recurrent neural networks</title>
       <link>https://jcvasquezc.github.io/tags/recurrent-neural-networks/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
@@ -113,14 +177,6 @@
       <link>https://jcvasquezc.github.io/tags/paralinguistics/</link>
       <pubDate>Sat, 10 Aug 2019 09:12:30 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/tags/paralinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language processing</title>
-      <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
-      <pubDate>Sat, 10 Aug 2019 06:35:27 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -157,14 +213,6 @@
     </item>
     
     <item>
-      <title>non-linear dynamics</title>
-      <link>https://jcvasquezc.github.io/tags/non-linear-dynamics/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/non-linear-dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Apkinson</title>
       <link>https://jcvasquezc.github.io/tags/apkinson/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -177,22 +225,6 @@
       <link>https://jcvasquezc.github.io/tags/computational-linguistics/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/tags/computational-linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inertial sensors</title>
-      <link>https://jcvasquezc.github.io/tags/inertial-sensors/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/inertial-sensors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>convolutional neural networks</title>
-      <link>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/convolutional-neural-networks/</guid>
       <description></description>
     </item>
     
@@ -217,14 +249,6 @@
       <link>https://jcvasquezc.github.io/tags/user-modeling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/tags/user-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wavelets</title>
-      <link>https://jcvasquezc.github.io/tags/wavelets/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/wavelets/</guid>
       <description></description>
     </item>
     
