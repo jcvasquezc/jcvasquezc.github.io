@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Juan Camilo Vásquez-Correa | Juan Camilo Vasquez Correa</title>
+    <title>Juan Camilo Vasquez-Correa | Juan Camilo Vasquez Correa</title>
     <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/index.xml" rel="self" type="application/rss+xml" />
-    <description>Juan Camilo Vásquez-Correa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <description>Juan Camilo Vasquez-Correa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
-      <title>Juan Camilo Vásquez-Correa</title>
+      <title>Juan Camilo Vasquez-Correa</title>
       <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
     </image>
+    
+    <item>
+      <title>Feature Representation of Pathophysiology of Parkinsonian Dysarthria</title>
+      <link>https://jcvasquezc.github.io/publication/rueda-2019-feature/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rueda-2019-feature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apkinson</title>
@@ -75,6 +83,30 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
     </item>
     
     <item>
+      <title>Natural Language Analysis to Detect Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2019-natural/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2019-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Space Visualization with Spatial Similarity Maps for Pathological Speech Data</title>
+      <link>https://jcvasquezc.github.io/publication/klumpp-2019-feature/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/klumpp-2019-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonet: A Tool Based on Gated Recurrent Neural Networks to Extract Phonological Posteriors from Speech</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-phonet/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-phonet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
       <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -103,6 +135,14 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
       <link>https://jcvasquezc.github.io/publication/perez-2018-non/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/perez-2018-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson: A Mobile Solution for Multimodal Assessment of Patients with Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-apkinson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-apkinson/</guid>
       <description></description>
     </item>
     

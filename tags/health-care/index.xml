@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/tags/health-care/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/health-care/index.xml" rel="self" type="application/rss+xml" />
     <description>health-care</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>health-care</title>
       <link>https://jcvasquezc.github.io/tags/health-care/</link>
     </image>
+    
+    <item>
+      <title>Feature Representation of Pathophysiology of Parkinsonian Dysarthria</title>
+      <link>https://jcvasquezc.github.io/publication/rueda-2019-feature/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rueda-2019-feature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apkinson</title>
@@ -143,6 +151,14 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
     </item>
     
     <item>
+      <title>Natural Language Analysis to Detect Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2019-natural/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2019-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analysis and evaluation of handwriting in patients with Parkinson’s disease using kinematic, geometrical, and non-linear features</title>
       <link>https://jcvasquezc.github.io/publication/rios-2019-analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -179,6 +195,14 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
       <link>https://jcvasquezc.github.io/publication/perez-2018-non/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/perez-2018-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson: A Mobile Solution for Multimodal Assessment of Patients with Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-apkinson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-apkinson/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/tags/machine-learning/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Machine learning</title>
       <link>https://jcvasquezc.github.io/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Feature Representation of Pathophysiology of Parkinsonian Dysarthria</title>
+      <link>https://jcvasquezc.github.io/publication/rueda-2019-feature/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/rueda-2019-feature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VOT</title>
@@ -63,6 +71,22 @@
       <guid>https://jcvasquezc.github.io/project/tapas/</guid>
       <description>&lt;p&gt;There are an increasing number of people across Europe with debilitating speech pathologies (e.g., due to stroke, Parkinson&amp;rsquo;s, etc). These groups face communication problems that can lead to social exclusion. They are now being further marginalised by a new wave of speech technology that is increasingly woven into everyday life but which is not robust to atypical speech. TAPAS is a Horizon 2020 Marie Skłodowska-Curie Actions Innovative Training Network European Training Network (MSCA-ITN-ETN) project that aims to transform the well being of these people. The TAPAS work programme targets three key research problems: &lt;b&gt;(a)&lt;/b&gt; Detection: We will develop speech processing techniques for early detection of conditions that impact on speech production. The outcomes will be cheap and non-invasive diagnostic tools that provide early warning of the onset of progressive conditions such as Alzheimer&amp;rsquo;s and Parkinson&amp;rsquo;s. &lt;b&gt;(b)&lt;/b&gt; Therapy: We will use newly-emerging speech processing techniques to produce automated speech therapy tools. These tools will make therapy more accessible and more individually targeted. Better therapy can increase the chances of recovering intelligible speech after traumatic events such a stroke or oral surgery. &lt;b&gt;&amp;copy;&lt;/b&gt; Assisted Living: We will re-design current speech technology so that it works well for people with speech impairments and also helps in making informed clinical choices. People with speech impairments often have other co-occurring conditions making them reliant on carers. Speech-driven tools for assisted-living are a way to allow such people to live more independently. TAPAS adopts an inter-disciplinary and multi-sectorial approach. The consortium includes clinical practitioners, academic researchers and industrial partners, with expertise spanning speech engineering, linguistics and clinical science. All members have expertise in some element of pathological speech. This rich network will train a new generation of 15 researchers, equipping them with the skills and resources necessary for lasting success.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Natural Language Analysis to Detect Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2019-natural/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2019-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Space Visualization with Spatial Similarity Maps for Pathological Speech Data</title>
+      <link>https://jcvasquezc.github.io/publication/klumpp-2019-feature/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/klumpp-2019-feature/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -5,12 +5,60 @@
     <link>https://jcvasquezc.github.io/authors/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Authors</title>
       <link>https://jcvasquezc.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Alice Rueda</title>
+      <link>https://jcvasquezc.github.io/authors/alice-rueda/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/alice-rueda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristian David Rios-Urrego</title>
+      <link>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elmar Nöth</title>
+      <link>https://jcvasquezc.github.io/authors/elmar-noth/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/elmar-noth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Camilo Vasquez-Correa</title>
+      <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Rafael Orozco-Arroyave</title>
+      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sridhar Krishnan</title>
+      <link>https://jcvasquezc.github.io/authors/sridhar-krishnan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/sridhar-krishnan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> others</title>
@@ -33,14 +81,6 @@
       <link>https://jcvasquezc.github.io/authors/colombian-ministry-of-communication-technologies/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/colombian-ministry-of-communication-technologies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristian David Rios-Urrego</title>
-      <link>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</guid>
       <description></description>
     </item>
     
@@ -69,26 +109,10 @@
     </item>
     
     <item>
-      <title>Jesus Francisco Várgas-Bonilla</title>
+      <title>Jesus Francisco Vargas-Bonilla</title>
       <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Camilo Vásquez-Correa</title>
-      <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Rafael Orozco-Arroyave</title>
-      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
       <description></description>
     </item>
     
@@ -181,6 +205,30 @@
     </item>
     
     <item>
+      <title>Philipp Klumpp</title>
+      <link>https://jcvasquezc.github.io/authors/philipp-klumpp/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/philipp-klumpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tino Haderlein</title>
+      <link>https://jcvasquezc.github.io/authors/tino-haderlein/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/tino-haderlein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomas Arias-Vergara</title>
+      <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C Högerle</title>
       <link>https://jcvasquezc.github.io/authors/c-hogerle/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -193,14 +241,6 @@
       <link>https://jcvasquezc.github.io/authors/e-noth/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/e-noth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elmar Nöth</title>
-      <link>https://jcvasquezc.github.io/authors/elmar-noth/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/elmar-noth/</guid>
       <description></description>
     </item>
     
@@ -365,14 +405,6 @@
     </item>
     
     <item>
-      <title>Philipp Klumpp</title>
-      <link>https://jcvasquezc.github.io/authors/philipp-klumpp/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/philipp-klumpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Raman Arora</title>
       <link>https://jcvasquezc.github.io/authors/raman-arora/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -385,14 +417,6 @@
       <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/tobias-bocklet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomas Arias-Vergara</title>
-      <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</guid>
       <description></description>
     </item>
     
@@ -493,7 +517,7 @@
     </item>
     
     <item>
-      <title>Julian David Arias-Londoño</title>
+      <title>Julian David Arias-Londono</title>
       <link>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/julian-david-arias-londono/</guid>
@@ -505,14 +529,6 @@
       <link>https://jcvasquezc.github.io/authors/sabine-skodda/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/sabine-skodda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tino Haderlein</title>
-      <link>https://jcvasquezc.github.io/authors/tino-haderlein/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/tino-haderlein/</guid>
       <description></description>
     </item>
     
