@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Schuster | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/maria-schuster/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/maria-schuster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Schuster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Maria Schuster</title>
+      <link>https://jcvasquezc.github.io/authors/maria-schuster/</link>
+    </image>
+    
+    <item>
+      <title>Multi-channel Convolutional Neural Networks for Automatic Detection of Speech Deficits in Cochlear Implant Users</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2019-multichannel/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2019-multichannel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

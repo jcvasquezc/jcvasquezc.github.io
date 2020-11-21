@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/authors/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Authors</title>
@@ -13,9 +13,129 @@
     </image>
     
     <item>
+      <title>Juan Camilo Vasquez-Correa</title>
+      <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://jcvasquezc.github.io/authors/others/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Arias Vergara</title>
+      <link>https://jcvasquezc.github.io/authors/t-arias-vergara/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/t-arias-vergara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kupfer</title>
+      <link>https://jcvasquezc.github.io/authors/michael-kupfer/</link>
+      <pubDate>Mon, 10 Aug 2020 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/michael-kupfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elmar Nöth</title>
+      <link>https://jcvasquezc.github.io/authors/elmar-noth/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/elmar-noth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. C. Vasquez-Correa</title>
+      <link>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Rafael Orozco-Arroyave</title>
+      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Argüello-Vélez</title>
+      <link>https://jcvasquezc.github.io/authors/p.-arguello-velez/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/p.-arguello-velez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Klumpp</title>
+      <link>https://jcvasquezc.github.io/authors/p.-klumpp/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/p.-klumpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Arias-Vergara</title>
+      <link>https://jcvasquezc.github.io/authors/t.-arias-vergara/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/t.-arias-vergara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paula Andrea Pérez-Toro</title>
+      <link>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Bocklet</title>
+      <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/tobias-bocklet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomas Arias-Vergara</title>
+      <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Escobar-Grisales</title>
+      <link>https://jcvasquezc.github.io/authors/daniel-escobar-grisales/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/daniel-escobar-grisales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan S Guerrero-Cristancho</title>
+      <link>https://jcvasquezc.github.io/authors/juan-s-guerrero-cristancho/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-s-guerrero-cristancho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alice Rueda</title>
       <link>https://jcvasquezc.github.io/authors/alice-rueda/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/alice-rueda/</guid>
       <description></description>
     </item>
@@ -23,32 +143,24 @@
     <item>
       <title>Cristian David Rios-Urrego</title>
       <link>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Elmar Nöth</title>
-      <link>https://jcvasquezc.github.io/authors/elmar-noth/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/elmar-noth/</guid>
+      <title>Maria Schuster</title>
+      <link>https://jcvasquezc.github.io/authors/maria-schuster/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/maria-schuster/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Juan Camilo Vasquez-Correa</title>
-      <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Rafael Orozco-Arroyave</title>
-      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
+      <title>Sandra Gollwitzer</title>
+      <link>https://jcvasquezc.github.io/authors/sandra-gollwitzer/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/sandra-gollwitzer/</guid>
       <description></description>
     </item>
     
@@ -57,14 +169,6 @@
       <link>https://jcvasquezc.github.io/authors/sridhar-krishnan/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/sridhar-krishnan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> others</title>
-      <link>https://jcvasquezc.github.io/authors/others/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/others/</guid>
       <description></description>
     </item>
     
@@ -81,14 +185,6 @@
       <link>https://jcvasquezc.github.io/authors/colombian-ministry-of-communication-technologies/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/colombian-ministry-of-communication-technologies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Escobar-Grisales</title>
-      <link>https://jcvasquezc.github.io/authors/daniel-escobar-grisales/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/daniel-escobar-grisales/</guid>
       <description></description>
     </item>
     
@@ -145,14 +241,6 @@
       <link>https://jcvasquezc.github.io/authors/martin-strauss/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/martin-strauss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paula Andrea Pérez-Toro</title>
-      <link>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</guid>
       <description></description>
     </item>
     
@@ -221,14 +309,6 @@
     </item>
     
     <item>
-      <title>Tomas Arias-Vergara</title>
-      <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>C Högerle</title>
       <link>https://jcvasquezc.github.io/authors/c-hogerle/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -249,14 +329,6 @@
       <link>https://jcvasquezc.github.io/authors/francisco-lopera/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/francisco-lopera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. C. Vasquez-Correa</title>
-      <link>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</guid>
       <description></description>
     </item>
     
@@ -297,14 +369,6 @@
       <link>https://jcvasquezc.github.io/authors/s-gollwitzer/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/s-gollwitzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T Arias Vergara</title>
-      <link>https://jcvasquezc.github.io/authors/t-arias-vergara/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/t-arias-vergara/</guid>
       <description></description>
     </item>
     
@@ -409,14 +473,6 @@
       <link>https://jcvasquezc.github.io/authors/raman-arora/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/raman-arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tobias Bocklet</title>
-      <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/tobias-bocklet/</guid>
       <description></description>
     </item>
     
@@ -577,8 +633,7 @@
       <link>https://jcvasquezc.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I have performed research and development (R&amp;amp;D) activities related to signal processing and machine learning for health-care and biometric applications since five years now, both in academic and industrial partners. I am coauthor of more than 50 papers related to signal processing and Machine learning in high impact international conferences and jounals.
-Currently working as a researcher at the &lt;a href=&#34;https://www5.cs.fau.de/&#34; target=&#34;_blank&#34;&gt;Pattern recognition Lab&lt;/a&gt; from the Friedrich Alexander Universtity. Passionate about Machine learning, deep learning, speech processing, and natural language processing technologies.&lt;/p&gt;
+      <description>&lt;p&gt;I have performed research and development activities related to signal processing and machine learning for health-care and biometric applications for six years now, both in academic and industrial partners like Telefónica research or the center of speech and language processing of Jhons Hopkins University. I am co-author of more than 50 papers related to signal processing and Machine learning in high impact international conferences and journals. Currently working as a researcher at the &lt;!-- raw HTML omitted --&gt;Pattern recognition Lab&lt;!-- raw HTML omitted --&gt; from the Friedrich Alexander University. Passionate about Machine learning, deep learning, speech processing, and natural language processing technologies.&lt;/p&gt;
 </description>
     </item>
     

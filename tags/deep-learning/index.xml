@@ -5,12 +5,52 @@
     <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Deep learning</title>
       <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Parallel Representation Learning for the Classification of Pathological Speech: Studies on Parkinson’s Disease and Cleft Lip and Palate</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of Voice Onset Time in voiceless plosives using gated recurrent units</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2020-automatic/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel spectrograms for speech processing applications using deep learning methods</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2020-multichannel/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2020-multichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks and a Transfer Learning Strategy to Classify Parkinson’s Disease from Speech in Three Different Languages</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-convolutional/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel Convolutional Neural Networks for Automatic Detection of Speech Deficits in Cochlear Implant Users</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2019-multichannel/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2019-multichannel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aprendizaje por transferencia en redes neuronales convolucionales para el diagnóstico y monitoreo de la enfermedad de Parkinson usando señales de voz en tres idiomas diferentes</title>
@@ -70,6 +110,14 @@ In this proposal, DNN-based methods will be considered to three different proble
       <link>https://jcvasquezc.github.io/publication/vasquez-2019-phonet/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2019-phonet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surgical mask detection with deep recurrent phonetic models</title>
+      <link>https://jcvasquezc.github.io/publication/klumpp-2020-surgical/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/klumpp-2020-surgical/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/tags/android/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <description>Android</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Android</title>
@@ -13,16 +13,21 @@
     </image>
     
     <item>
+      <title>Apkinson: the smartphone application for telemonitoring Parkinson’s patients through speech, gait and hands movement</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2020-apkinson/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2020-apkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Apkinson</title>
       <link>https://jcvasquezc.github.io/software/apkinson/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/software/apkinson/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Apkinson1.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;
-&lt;img src=&#34;Apkinson2.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br /&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br&gt;
 At the end of the exercise session, Apkinson evaluates the performance of the patient, while it keeps a register of the results from previous sessions. This analysis will allow the assessment of the progress of the disease of the patients.&lt;/p&gt;
-
 
 
 

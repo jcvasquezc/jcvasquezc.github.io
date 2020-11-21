@@ -5,12 +5,84 @@
     <link>https://jcvasquezc.github.io/tags/health-care/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/health-care/index.xml" rel="self" type="application/rss+xml" />
     <description>health-care</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>health-care</title>
       <link>https://jcvasquezc.github.io/tags/health-care/</link>
     </image>
+    
+    <item>
+      <title>Parallel Representation Learning for the Classification of Pathological Speech: Studies on Parkinson’s Disease and Cleft Lip and Palate</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated analysis of Parkinson’s Disease on the basis of evaluation of handwriting</title>
+      <link>https://jcvasquezc.github.io/teaching/michael-kupfer/</link>
+      <pubDate>Mon, 10 Aug 2020 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/teaching/michael-kupfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current methods and new trends in signal processing and pattern recognition for the automatic assessment of motor impairments: the case of Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2020-current/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2020-current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of User Models Based on GMM-UBM and I-Vectors for Speech, Handwriting, and Gait Assessment of Parkinson’s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-comparison/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear dynamics and Poincaré sections to model gait impairments in different stages of Parkinson’s disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2020-nonlinear/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2020-nonlinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word-Embeddings and Grammar Features to Detect Language Disorders in Alzheimer’s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/guerrero-2020-word/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/guerrero-2020-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson: the smartphone application for telemonitoring Parkinson’s patients through speech, gait and hands movement</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2020-apkinson/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2020-apkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articulation and Empirical Mode Decomposition Features in Diadochokinetic Exercises for the Speech Assessment of Parkinson&#39;s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-articulation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-articulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel Convolutional Neural Networks for Automatic Detection of Speech Deficits in Cochlear Implant Users</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2019-multichannel/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2019-multichannel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Representation of Pathophysiology of Parkinsonian Dysarthria</title>
@@ -25,12 +97,9 @@
       <link>https://jcvasquezc.github.io/software/apkinson/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/software/apkinson/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Apkinson1.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;
-&lt;img src=&#34;Apkinson2.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br /&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br&gt;
 At the end of the exercise session, Apkinson evaluates the performance of the patient, while it keeps a register of the results from previous sessions. This analysis will allow the assessment of the progress of the disease of the patients.&lt;/p&gt;
-
 
 
 
@@ -71,7 +140,6 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/project/conexion-salud/</guid>
       <description>&lt;p&gt;Study to measure the level of Communication and information technologies (TICs) in  the public Health Services institutions of Colombia.&lt;/p&gt;
-
 
 
 
@@ -146,7 +214,7 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
       <link>https://jcvasquezc.github.io/project/tapas/</link>
       <pubDate>Sat, 10 Aug 2019 06:06:17 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/project/tapas/</guid>
-      <description>&lt;p&gt;There are an increasing number of people across Europe with debilitating speech pathologies (e.g., due to stroke, Parkinson&amp;rsquo;s, etc). These groups face communication problems that can lead to social exclusion. They are now being further marginalised by a new wave of speech technology that is increasingly woven into everyday life but which is not robust to atypical speech. TAPAS is a Horizon 2020 Marie Skłodowska-Curie Actions Innovative Training Network European Training Network (MSCA-ITN-ETN) project that aims to transform the well being of these people. The TAPAS work programme targets three key research problems: &lt;b&gt;(a)&lt;/b&gt; Detection: We will develop speech processing techniques for early detection of conditions that impact on speech production. The outcomes will be cheap and non-invasive diagnostic tools that provide early warning of the onset of progressive conditions such as Alzheimer&amp;rsquo;s and Parkinson&amp;rsquo;s. &lt;b&gt;(b)&lt;/b&gt; Therapy: We will use newly-emerging speech processing techniques to produce automated speech therapy tools. These tools will make therapy more accessible and more individually targeted. Better therapy can increase the chances of recovering intelligible speech after traumatic events such a stroke or oral surgery. &lt;b&gt;&amp;copy;&lt;/b&gt; Assisted Living: We will re-design current speech technology so that it works well for people with speech impairments and also helps in making informed clinical choices. People with speech impairments often have other co-occurring conditions making them reliant on carers. Speech-driven tools for assisted-living are a way to allow such people to live more independently. TAPAS adopts an inter-disciplinary and multi-sectorial approach. The consortium includes clinical practitioners, academic researchers and industrial partners, with expertise spanning speech engineering, linguistics and clinical science. All members have expertise in some element of pathological speech. This rich network will train a new generation of 15 researchers, equipping them with the skills and resources necessary for lasting success.&lt;/p&gt;
+      <description>&lt;p&gt;There are an increasing number of people across Europe with debilitating speech pathologies (e.g., due to stroke, Parkinson&amp;rsquo;s, etc). These groups face communication problems that can lead to social exclusion. They are now being further marginalised by a new wave of speech technology that is increasingly woven into everyday life but which is not robust to atypical speech. TAPAS is a Horizon 2020 Marie Skłodowska-Curie Actions Innovative Training Network European Training Network (MSCA-ITN-ETN) project that aims to transform the well being of these people. The TAPAS work programme targets three key research problems: &lt;!-- raw HTML omitted --&gt;(a)&lt;!-- raw HTML omitted --&gt; Detection: We will develop speech processing techniques for early detection of conditions that impact on speech production. The outcomes will be cheap and non-invasive diagnostic tools that provide early warning of the onset of progressive conditions such as Alzheimer&amp;rsquo;s and Parkinson&amp;rsquo;s. &lt;!-- raw HTML omitted --&gt;(b)&lt;!-- raw HTML omitted --&gt; Therapy: We will use newly-emerging speech processing techniques to produce automated speech therapy tools. These tools will make therapy more accessible and more individually targeted. Better therapy can increase the chances of recovering intelligible speech after traumatic events such a stroke or oral surgery. &lt;!-- raw HTML omitted --&gt;(c)&lt;!-- raw HTML omitted --&gt; Assisted Living: We will re-design current speech technology so that it works well for people with speech impairments and also helps in making informed clinical choices. People with speech impairments often have other co-occurring conditions making them reliant on carers. Speech-driven tools for assisted-living are a way to allow such people to live more independently. TAPAS adopts an inter-disciplinary and multi-sectorial approach. The consortium includes clinical practitioners, academic researchers and industrial partners, with expertise spanning speech engineering, linguistics and clinical science. All members have expertise in some element of pathological speech. This rich network will train a new generation of 15 researchers, equipping them with the skills and resources necessary for lasting success.&lt;/p&gt;
 </description>
     </item>
     
@@ -176,9 +244,9 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
     
     <item>
       <title>Speech differences between CI users with pre-and postlingual onset of deafness detected by speech processing methods on voiceless to voice transitions</title>
-      <link>https://jcvasquezc.github.io/publication/vergara-2019-speech/</link>
+      <link>https://jcvasquezc.github.io/publication/arias-2019-speech/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/vergara-2019-speech/</guid>
+      <guid>https://jcvasquezc.github.io/publication/arias-2019-speech/</guid>
       <description></description>
     </item>
     
@@ -215,18 +283,18 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
     </item>
     
     <item>
-      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
-      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multimodal assessment of Parkinson&#39;s disease: a deep learning approach</title>
       <link>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
       <description></description>
     </item>
     

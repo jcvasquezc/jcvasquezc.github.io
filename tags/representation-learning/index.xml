@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/tags/representation-learning/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>representation learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>representation learning</title>
       <link>https://jcvasquezc.github.io/tags/representation-learning/</link>
     </image>
+    
+    <item>
+      <title>Parallel Representation Learning for the Classification of Pathological Speech: Studies on Parkinson’s Disease and Cleft Lip and Palate</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-view representation learning via GCCA for multimodal analysis of Parkinson&#39;s disease</title>

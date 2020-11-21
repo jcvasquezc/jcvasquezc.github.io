@@ -5,12 +5,28 @@
     <link>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/index.xml" rel="self" type="application/rss+xml" />
     <description>Cristian David Rios-Urrego</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Cristian David Rios-Urrego</title>
       <link>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</link>
     </image>
+    
+    <item>
+      <title>Articulation and Empirical Mode Decomposition Features in Diadochokinetic Exercises for the Speech Assessment of Parkinson&#39;s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-articulation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-articulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks and a Transfer Learning Strategy to Classify Parkinson’s Disease from Speech in Three Different Languages</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-convolutional/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-convolutional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Representation of Pathophysiology of Parkinsonian Dysarthria</title>

@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/authors/t-arias-vergara/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/t-arias-vergara/index.xml" rel="self" type="application/rss+xml" />
     <description>T Arias Vergara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>T Arias Vergara</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Parallel Representation Learning for the Classification of Pathological Speech: Studies on Parkinson’s Disease and Cleft Lip and Palate</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech differences between CI users with pre-and postlingual onset of deafness detected by speech processing methods on voiceless to voice transitions</title>
-      <link>https://jcvasquezc.github.io/publication/vergara-2019-speech/</link>
+      <link>https://jcvasquezc.github.io/publication/arias-2019-speech/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/vergara-2019-speech/</guid>
+      <guid>https://jcvasquezc.github.io/publication/arias-2019-speech/</guid>
       <description></description>
     </item>
     

@@ -1,28 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>movement analysis | Juan Camilo Vasquez Correa</title>
+    <title>Movement analysis | Juan Camilo Vasquez Correa</title>
     <link>https://jcvasquezc.github.io/tags/movement-analysis/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/movement-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>movement analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
+    <description>Movement analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
-      <title>movement analysis</title>
+      <title>Movement analysis</title>
       <link>https://jcvasquezc.github.io/tags/movement-analysis/</link>
     </image>
+    
+    <item>
+      <title>Current methods and new trends in signal processing and pattern recognition for the automatic assessment of motor impairments: the case of Parkinson&#39;s disease</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2020-current/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2020-current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of User Models Based on GMM-UBM and I-Vectors for Speech, Handwriting, and Gait Assessment of Parkinson’s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-comparison/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear dynamics and Poincaré sections to model gait impairments in different stages of Parkinson’s disease</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2020-nonlinear/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2020-nonlinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apkinson: the smartphone application for telemonitoring Parkinson’s patients through speech, gait and hands movement</title>
+      <link>https://jcvasquezc.github.io/publication/orozco-2020-apkinson/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/orozco-2020-apkinson/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Apkinson</title>
       <link>https://jcvasquezc.github.io/software/apkinson/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/software/apkinson/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Apkinson1.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;
-&lt;img src=&#34;Apkinson2.png&#34; alt=&#34;drawing&#34; width=&#34;100%&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br /&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Apkinson is an Android aplication to evaluate continuously the speech and movement symptoms of Parkinson&amp;rsquo;s patients, providing a feedback mechanism about the current stage of the disease. The patients are asked to do different speech and movement exercises everyday, which are selected from an exercise bank that contains a total of 35 exercises. The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear in the screen.  On the other hand, movement exercises are captured using the inertial sensors of the smartphone to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, gait deficits, among others.&lt;br&gt;
 At the end of the exercise session, Apkinson evaluates the performance of the patient, while it keeps a register of the results from previous sessions. This analysis will allow the assessment of the progress of the disease of the patients.&lt;/p&gt;
-
 
 
 
@@ -82,18 +111,18 @@ At the end of the exercise session, Apkinson evaluates the performance of the pa
     </item>
     
     <item>
-      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
-      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multimodal assessment of Parkinson&#39;s disease: a deep learning approach</title>
       <link>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/publication/vasquez-2018-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal I-vectors to Detect and Evaluate Parkinson&#39;s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/garcia-2018-multimodal/</guid>
       <description></description>
     </item>
     

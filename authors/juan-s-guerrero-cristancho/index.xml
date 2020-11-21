@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan S Guerrero-Cristancho | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/juan-s-guerrero-cristancho/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/juan-s-guerrero-cristancho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan S Guerrero-Cristancho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>Juan S Guerrero-Cristancho</title>
+      <link>https://jcvasquezc.github.io/authors/juan-s-guerrero-cristancho/</link>
+    </image>
+    
+    <item>
+      <title>Word-Embeddings and Grammar Features to Detect Language Disorders in Alzheimer’s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/guerrero-2020-word/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/guerrero-2020-word/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

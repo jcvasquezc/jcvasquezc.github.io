@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/authors/alice-rueda/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/alice-rueda/index.xml" rel="self" type="application/rss+xml" />
     <description>Alice Rueda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Alice Rueda</title>
       <link>https://jcvasquezc.github.io/authors/alice-rueda/</link>
     </image>
+    
+    <item>
+      <title>Articulation and Empirical Mode Decomposition Features in Diadochokinetic Exercises for the Speech Assessment of Parkinson&#39;s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2019-articulation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2019-articulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Representation of Pathophysiology of Parkinsonian Dysarthria</title>

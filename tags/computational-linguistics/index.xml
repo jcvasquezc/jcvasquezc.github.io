@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/tags/computational-linguistics/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/computational-linguistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational linguistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Computational linguistics</title>
       <link>https://jcvasquezc.github.io/tags/computational-linguistics/</link>
     </image>
+    
+    <item>
+      <title>Word-Embeddings and Grammar Features to Detect Language Disorders in Alzheimer’s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/guerrero-2020-word/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/guerrero-2020-word/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phonological i-Vectors to Detect Parkinson&#39;s Disease</title>

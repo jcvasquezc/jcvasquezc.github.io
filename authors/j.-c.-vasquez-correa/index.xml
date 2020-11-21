@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/index.xml" rel="self" type="application/rss+xml" />
     <description>J. C. Vasquez-Correa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>J. C. Vasquez-Correa</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Automatic detection of Voice Onset Time in voiceless plosives using gated recurrent units</title>
+      <link>https://jcvasquezc.github.io/publication/arias-2020-automatic/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/arias-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech differences between CI users with pre-and postlingual onset of deafness detected by speech processing methods on voiceless to voice transitions</title>
-      <link>https://jcvasquezc.github.io/publication/vergara-2019-speech/</link>
+      <link>https://jcvasquezc.github.io/publication/arias-2019-speech/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/publication/vergara-2019-speech/</guid>
+      <guid>https://jcvasquezc.github.io/publication/arias-2019-speech/</guid>
       <description></description>
     </item>
     

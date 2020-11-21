@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/tobias-bocklet/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias Bocklet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Tobias Bocklet</title>
       <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
     </image>
+    
+    <item>
+      <title>Comparison of User Models Based on GMM-UBM and I-Vectors for Speech, Handwriting, and Gait Assessment of Parkinson’s Disease Patients</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2020-comparison/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2020-comparison/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards an automatic evaluation of the dysarthria level of patients with Parkinson&#39;s disease</title>
