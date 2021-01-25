@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Signal processing | Juan Camilo Vasquez Correa</title>
-    <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
-      <atom:link href="https://jcvasquezc.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Signal processing</description>
+    <title>Teleinformatics and automatics researcg group, National University of Colombia Medell&#39;in | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teleinformatics and automatics researcg group, National University of Colombia Medell&#39;in</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
-      <title>Signal processing</title>
-      <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
+      <title>Teleinformatics and automatics researcg group, National University of Colombia Medell&#39;in</title>
+      <link>https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/</link>
     </image>
     
     <item>
@@ -22,41 +22,6 @@ país. Debido a esto, ha tomado fuerza la implementación de sistemas de medici�
 Asimismo, en el presente proyecto se plantea el uso de técnicas para análisis y tratamiento de la información de consumo entregada por los mencionados sistemas, con el fin de caracterizar la demanda de energía en el sector industrial colombiano, definir patrones de consumo y emitir recomendaciones que permitan llevara a cabo una gestión de la demanda entre los consumidores finales y optimizar el uso de los recursos energéticos en el país. Dicho esto, el proyecto plantea implementar herramientas de Big Data Analytics, como una herramienta que posibilita dar tratamiento a altos volúmenes de datos, tal como se obtienen con estos sistemas de medición, para clasificar la información obtenida e identificar particularidades que permitan definir las características de las cargas en el sector industrial, así como también posibles falencias o demandas inusuales de energía eléctrica. Asimismo, se emplearán técnicas de Machine Learning con el fin de evaluar modificaciones en hábitos de consumo, comportamientos inusuales en la demanda de energía y/o alteraciones ligadas a gestión de la demanda, con el fin de evaluar la respuesta del sistema y buscar un mayor aprovechamiento de los recursos energéticos, logrando a su vez una disminución en el costo final por demanda de energía eléctrica en el sector industrial.
 Con las herramientas utilizadas, se desarrollará un algoritmo que integre dichas técnicas de análisis e incorpore la adquisición masiva de datos, para ser analizados, tratados y procesados, en busca de obtener recomendaciones que incentiven la gestión de la demanda y el consumo consiente en la industria colombiana, así como también brindar la posibilidad de evidenciar consumos no deseados o posibles falencias en el sistema eléctrico de la empresa.
 Finalmente, los resultados obtenidos en el presente proyecto, tendrán un componente de transferencia tecnológica y de conocimiento entre las entidades partícipes del proyecto, y hacia los sectores académicos y científicos del país, para garantizar un mayor conocimiento sobre los sistemas de medición avanzada, las técnicas de análisis de información y sus beneficios al ser aplicados en el sector eléctrico colombiano.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Disvoice</title>
-      <link>https://jcvasquezc.github.io/software/disvoice/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/software/disvoice/</guid>
-      <description>&lt;p&gt;DisVoice is a python framework designed to compute features from pathological speech. Disvoice computes phonation articulation, and prosody-based features both from sustained vowels and continuous speech utterances with the aim to evaluate the communication capabilities of patients with different voice disorders including diseases with functional origin such as larinx cancer or nodules; craneo-facial based disorders such as hipernasality developed by cleft-lip and palate; or neurodegenerative disorders such as Parkinson&amp;rsquo;s disease.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neurospeech</title>
-      <link>https://jcvasquezc.github.io/software/neurospeech/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/software/neurospeech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal PD</title>
-      <link>https://jcvasquezc.github.io/project/multimodal/</link>
-      <pubDate>Sat, 10 Aug 2019 06:29:33 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/project/multimodal/</guid>
-      <description>&lt;p&gt;The main aim of this project is to develop a method to evaluate the motor impairments and the neurological state of patients with Parkinson&amp;rsquo;s Disease using three bio-signals: speech, handwriting and gait. This research work is suitable for the development of computer aided tools to evaluate the motor impairments of patients with different neurodegenerative disorders considering information from different bio&amp;ndash;signals to take accurate decisions about the treatment of the patients.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PD speech</title>
-      <link>https://jcvasquezc.github.io/project/pdspeech/</link>
-      <pubDate>Sat, 10 Aug 2013 09:10:11 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/project/pdspeech/</guid>
-      <description>&lt;p&gt;Parkinson&amp;rsquo;s Disease (PD) is the second neurological condition more prevalent after Alheimer. It is fundamental identify early markers of the disease.  90% of people with PD present speech disorders, but only from 3% to 4% recieve speech treatment. In this project will be developed methodologies based on signal processing to establish if the speech signals represent an early marker of PD. Also will be applied machine learning techniques to develop methodologies that allow make an objective following about of speech quality in patients with PD.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,36 @@
     <link>https://jcvasquezc.github.io/authors/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Authors</title>
       <link>https://jcvasquezc.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>GITA research group, University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
+      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEB IEB Ingenieria especializada</title>
+      <link>https://jcvasquezc.github.io/authors/ieb-ieb-ingenieria-especializada/</link>
+      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/ieb-ieb-ingenieria-especializada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teleinformatics and automatics researcg group, National University of Colombia Medell&#39;in</title>
+      <link>https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/</link>
+      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Juan Camilo Vasquez-Correa</title>
@@ -193,14 +217,6 @@
       <link>https://jcvasquezc.github.io/authors/felipe-orlando-lopez-pabon/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/felipe-orlando-lopez-pabon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GITA research group, University of Antioquia</title>
-      <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
-      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</guid>
       <description></description>
     </item>
     
