@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MINCIENCIAS | Juan Camilo Vasquez Correa</title>
+    <link>https://jcvasquezc.github.io/authors/minciencias/</link>
+      <atom:link href="https://jcvasquezc.github.io/authors/minciencias/index.xml" rel="self" type="application/rss+xml" />
+    <description>MINCIENCIAS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 06:46:20 -0500</lastBuildDate>
+    <image>
+      <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
+      <title>MINCIENCIAS</title>
+      <link>https://jcvasquezc.github.io/authors/minciencias/</link>
+    </image>
+    
+    <item>
+      <title>Development of machine learning methods to analyze and to characterize the energy consumption of Oil &amp; Gas Colombian companies</title>
+      <link>https://jcvasquezc.github.io/project/mlenergy/</link>
+      <pubDate>Sat, 10 Aug 2019 06:46:20 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/mlenergy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

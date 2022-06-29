@@ -5,12 +5,28 @@
     <link>https://jcvasquezc.github.io/tags/health-care/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/health-care/index.xml" rel="self" type="application/rss+xml" />
     <description>health-care</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>health-care</title>
       <link>https://jcvasquezc.github.io/tags/health-care/</link>
     </image>
+    
+    <item>
+      <title>On Modeling Glottal Source Information for Phonation Assessment in Parkinson’s Disease</title>
+      <link>https://jcvasquezc.github.io/publication/vasquez-2021-glottal/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/vasquez-2021-glottal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of the Interviewer on the Automatic Assessment of Alzheimer&#39;s Disease in the Context of the ADReSSo Challenge.</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2021-influence/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2021-influence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Parallel Representation Learning for the Classification of Pathological Speech: Studies on Parkinson’s Disease and Cleft Lip and Palate</title>

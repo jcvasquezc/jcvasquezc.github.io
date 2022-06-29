@@ -5,12 +5,20 @@
     <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Natural Language processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Natural Language processing</title>
       <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
     </image>
+    
+    <item>
+      <title>Influence of the Interviewer on the Automatic Assessment of Alzheimer&#39;s Disease in the Context of the ADReSSo Challenge.</title>
+      <link>https://jcvasquezc.github.io/publication/perez-2021-influence/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/publication/perez-2021-influence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Word-Embeddings and Grammar Features to Detect Language Disorders in Alzheimer’s Disease Patients</title>

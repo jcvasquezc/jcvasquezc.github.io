@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/tags/</link>
       <atom:link href="https://jcvasquezc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Tags</title>
@@ -13,41 +13,9 @@
     </image>
     
     <item>
-      <title>Anomaly detection</title>
-      <link>https://jcvasquezc.github.io/tags/anomaly-detection/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/anomaly-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy</title>
-      <link>https://jcvasquezc.github.io/tags/energy/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning</title>
-      <link>https://jcvasquezc.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Signal processing</title>
-      <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/signal-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep learning</title>
       <link>https://jcvasquezc.github.io/tags/deep-learning/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -55,8 +23,32 @@
     <item>
       <title>health-care</title>
       <link>https://jcvasquezc.github.io/tags/health-care/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/tags/health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://jcvasquezc.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech processing</title>
+      <link>https://jcvasquezc.github.io/tags/speech-processing/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/speech-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language processing</title>
+      <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -65,14 +57,6 @@
       <link>https://jcvasquezc.github.io/tags/representation-learning/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/tags/representation-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speech processing</title>
-      <link>https://jcvasquezc.github.io/tags/speech-processing/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/speech-processing/</guid>
       <description></description>
     </item>
     
@@ -129,14 +113,6 @@
       <link>https://jcvasquezc.github.io/tags/keystroke-dynamics/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/tags/keystroke-dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language processing</title>
-      <link>https://jcvasquezc.github.io/tags/natural-language-processing/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -209,6 +185,14 @@
       <link>https://jcvasquezc.github.io/tags/python/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal processing</title>
+      <link>https://jcvasquezc.github.io/tags/signal-processing/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/tags/signal-processing/</guid>
       <description></description>
     </item>
     

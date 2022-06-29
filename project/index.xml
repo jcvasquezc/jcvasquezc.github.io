@@ -5,25 +5,12 @@
     <link>https://jcvasquezc.github.io/project/</link>
       <atom:link href="https://jcvasquezc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 09:20:18 -0500</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Projects</title>
       <link>https://jcvasquezc.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>ML Energy</title>
-      <link>https://jcvasquezc.github.io/project/mlenergy/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/project/mlenergy/</guid>
-      <description>&lt;p&gt;El sector industrial colombiano, representa una importante demanda energética para el sector eléctrico del país; sin embargo, este sector cuenta con dificultades ligadas a la obsolescencia tecnológica y el bajo control sobre los consumos de energía eléctrica, lo que limita el óptimo aprovechamiento de los recursos energéticos disponibles en el
-país. Debido a esto, ha tomado fuerza la implementación de sistemas de medición y gestión inteligente de consumo energético, con lo cual se espera mejorar la eficiencia en el consumo de la energía y la disminución de costos por demanda de energía eléctrica. Por tal motivo, es necesario realizar un análisis eléctrico, sobre las variables de operación del sistema, curvas de carga y mediciones entregadas por los equipos de medida; con el fin de diagnosticar el estado de operación del conjunto de cargas asociadas al sector industrial que se monitorea. En este proceso, es posible identificar de manera inicial, consumos anormales u operaciones inadecuadas en el sector industrial analizado, dando un tratamiento y clasificandolal información de consumo para ser estudiada de manera más profunda en busca de la raíz de dichos problemas.
-Asimismo, en el presente proyecto se plantea el uso de técnicas para análisis y tratamiento de la información de consumo entregada por los mencionados sistemas, con el fin de caracterizar la demanda de energía en el sector industrial colombiano, definir patrones de consumo y emitir recomendaciones que permitan llevara a cabo una gestión de la demanda entre los consumidores finales y optimizar el uso de los recursos energéticos en el país. Dicho esto, el proyecto plantea implementar herramientas de Big Data Analytics, como una herramienta que posibilita dar tratamiento a altos volúmenes de datos, tal como se obtienen con estos sistemas de medición, para clasificar la información obtenida e identificar particularidades que permitan definir las características de las cargas en el sector industrial, así como también posibles falencias o demandas inusuales de energía eléctrica. Asimismo, se emplearán técnicas de Machine Learning con el fin de evaluar modificaciones en hábitos de consumo, comportamientos inusuales en la demanda de energía y/o alteraciones ligadas a gestión de la demanda, con el fin de evaluar la respuesta del sistema y buscar un mayor aprovechamiento de los recursos energéticos, logrando a su vez una disminución en el costo final por demanda de energía eléctrica en el sector industrial.
-Con las herramientas utilizadas, se desarrollará un algoritmo que integre dichas técnicas de análisis e incorpore la adquisición masiva de datos, para ser analizados, tratados y procesados, en busca de obtener recomendaciones que incentiven la gestión de la demanda y el consumo consiente en la industria colombiana, así como también brindar la posibilidad de evidenciar consumos no deseados o posibles falencias en el sistema eléctrico de la empresa.
-Finalmente, los resultados obtenidos en el presente proyecto, tendrán un componente de transferencia tecnológica y de conocimiento entre las entidades partícipes del proyecto, y hacia los sectores académicos y científicos del país, para garantizar un mayor conocimiento sobre los sistemas de medición avanzada, las técnicas de análisis de información y sus beneficios al ser aplicados en el sector eléctrico colombiano.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Conexion Salud</title>
@@ -85,6 +72,14 @@ In this proposal, DNN-based methods will be considered to three different proble
       <guid>https://jcvasquezc.github.io/project/emotions/</guid>
       <description>&lt;p&gt;Human emotions detection considering speech signals is a field that has attracted the attention of the research community since the last years. Several situations where the human integrity and security is at risk have been addressed; particularly the analysis of speech in emergency calls or in call-centers, are an interesting scenario. This project aimed to develop a methodology to classify different types of emotions such as anger, anxiety, disgust, and desperation, in scenarios where the speech signal is contaminated with noise or is coded by telephone channels.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Development of machine learning methods to analyze and to characterize the energy consumption of Oil &amp; Gas Colombian companies</title>
+      <link>https://jcvasquezc.github.io/project/mlenergy/</link>
+      <pubDate>Sat, 10 Aug 2019 06:46:20 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/project/mlenergy/</guid>
+      <description></description>
     </item>
     
     <item>

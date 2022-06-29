@@ -5,7 +5,7 @@
     <link>https://jcvasquezc.github.io/authors/</link>
       <atom:link href="https://jcvasquezc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 09:20:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jcvasquezc.github.io/img/profile.jpeg</url>
       <title>Authors</title>
@@ -13,33 +13,17 @@
     </image>
     
     <item>
-      <title>GITA research group, University of Antioquia</title>
-      <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IEB IEB Ingenieria especializada</title>
-      <link>https://jcvasquezc.github.io/authors/ieb-ieb-ingenieria-especializada/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/ieb-ieb-ingenieria-especializada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teleinformatics and automatics researcg group, National University of Colombia Medell&#39;in</title>
-      <link>https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/</link>
-      <pubDate>Tue, 10 Nov 2020 09:20:18 -0500</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/teleinformatics-and-automatics-researcg-group-national-university-of-colombia-medellin/</guid>
+      <title>J Fritsch</title>
+      <link>https://jcvasquezc.github.io/authors/j-fritsch/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/j-fritsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Juan Camilo Vasquez-Correa</title>
       <link>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/juan-camilo-vasquez-correa/</guid>
       <description></description>
     </item>
@@ -47,8 +31,72 @@
     <item>
       <title>others</title>
       <link>https://jcvasquezc.github.io/authors/others/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elmar Nöth</title>
+      <link>https://jcvasquezc.github.io/authors/elmar-noth/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/elmar-noth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Rafael Orozco-Arroyave</title>
+      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korbinian Riedhammer</title>
+      <link>https://jcvasquezc.github.io/authors/korbinian-riedhammer/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/korbinian-riedhammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Schuster</title>
+      <link>https://jcvasquezc.github.io/authors/maria-schuster/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/maria-schuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paula Andrea Pérez-Toro</title>
+      <link>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Klumpp</title>
+      <link>https://jcvasquezc.github.io/authors/philipp-klumpp/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/philipp-klumpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian P Bayerl</title>
+      <link>https://jcvasquezc.github.io/authors/sebastian-p-bayerl/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/sebastian-p-bayerl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomas Arias-Vergara</title>
+      <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</guid>
       <description></description>
     </item>
     
@@ -69,26 +117,10 @@
     </item>
     
     <item>
-      <title>Elmar Nöth</title>
-      <link>https://jcvasquezc.github.io/authors/elmar-noth/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/elmar-noth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>J. C. Vasquez-Correa</title>
       <link>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/j.-c.-vasquez-correa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Rafael Orozco-Arroyave</title>
-      <link>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/juan-rafael-orozco-arroyave/</guid>
       <description></description>
     </item>
     
@@ -117,26 +149,10 @@
     </item>
     
     <item>
-      <title>Paula Andrea Pérez-Toro</title>
-      <link>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/paula-andrea-perez-toro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tobias Bocklet</title>
       <link>https://jcvasquezc.github.io/authors/tobias-bocklet/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/tobias-bocklet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomas Arias-Vergara</title>
-      <link>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/tomas-arias-vergara/</guid>
       <description></description>
     </item>
     
@@ -169,14 +185,6 @@
       <link>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/cristian-david-rios-urrego/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Schuster</title>
-      <link>https://jcvasquezc.github.io/authors/maria-schuster/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/maria-schuster/</guid>
       <description></description>
     </item>
     
@@ -221,6 +229,14 @@
     </item>
     
     <item>
+      <title>GITA research group, University of Antioquia</title>
+      <link>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</link>
+      <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/gita-research-group-university-of-antioquia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jesus Francisco Vargas-Bonilla</title>
       <link>https://jcvasquezc.github.io/authors/jesus-francisco-vargas-bonilla/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
@@ -257,6 +273,14 @@
       <link>https://jcvasquezc.github.io/authors/martin-strauss/</link>
       <pubDate>Sat, 10 Aug 2019 09:20:18 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/martin-strauss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MINCIENCIAS</title>
+      <link>https://jcvasquezc.github.io/authors/minciencias/</link>
+      <pubDate>Sat, 10 Aug 2019 06:46:20 -0500</pubDate>
+      <guid>https://jcvasquezc.github.io/authors/minciencias/</guid>
       <description></description>
     </item>
     
@@ -305,14 +329,6 @@
       <link>https://jcvasquezc.github.io/authors/european-union/</link>
       <pubDate>Sat, 10 Aug 2019 06:06:17 -0500</pubDate>
       <guid>https://jcvasquezc.github.io/authors/european-union/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philipp Klumpp</title>
-      <link>https://jcvasquezc.github.io/authors/philipp-klumpp/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcvasquezc.github.io/authors/philipp-klumpp/</guid>
       <description></description>
     </item>
     
@@ -649,7 +665,91 @@
       <link>https://jcvasquezc.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jcvasquezc.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I have performed research and development activities related to signal processing and machine learning for health-care and biometric applications for six years now, both in academic and industrial partners like Telefónica research or the center of speech and language processing of Jhons Hopkins University. I am co-author of more than 50 papers related to signal processing and Machine learning in high impact international conferences and journals. Currently working as a researcher at the &lt;!-- raw HTML omitted --&gt;Pattern recognition Lab&lt;!-- raw HTML omitted --&gt; from the Friedrich Alexander University. Passionate about Machine learning, deep learning, speech processing, and natural language processing technologies.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;display-name&#34;&gt;Display name&lt;/h1&gt;
+&lt;p&gt;name: Juan Camilo Vasquez-Correa&lt;/p&gt;
+&lt;h1 id=&#34;username-this-should-match-the-folder-name&#34;&gt;Username (this should match the folder name)&lt;/h1&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;is-this-the-primary-user-of-the-site&#34;&gt;Is this the primary user of the site?&lt;/h1&gt;
+&lt;p&gt;superuser: true&lt;/p&gt;
+&lt;h1 id=&#34;roleposition&#34;&gt;Role/position&lt;/h1&gt;
+&lt;p&gt;role: Machine learning researcher&lt;/p&gt;
+&lt;h1 id=&#34;organizationsaffiliations&#34;&gt;Organizations/Affiliations&lt;/h1&gt;
+&lt;p&gt;organizations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;name: Vicomtech, Donostia/San Sebastian, Spain
+url: &amp;ldquo;&lt;a href=&#34;https://www.vicomtech.org/en/%22&#34;&gt;https://www.vicomtech.org/en/&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;short-bio-displayed-in-user-profile-at-end-of-posts&#34;&gt;Short bio (displayed in user profile at end of posts)&lt;/h1&gt;
+&lt;p&gt;interests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Signal Processing&lt;/li&gt;
+&lt;li&gt;Machine Learning and Deep Learning&lt;/li&gt;
+&lt;li&gt;Signal Processing&lt;/li&gt;
+&lt;li&gt;Natural language processing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;education:
+courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;course: PhD in Computer science
+institution: Friedrich Alexander University
+year: 2018 - currently&lt;/li&gt;
+&lt;li&gt;course: PhD in Computer science and Electrical Engineering
+institution: University of Antioquia
+year: 2018 - currently&lt;/li&gt;
+&lt;li&gt;course: MEng in Telecommunications Engineering
+institution: University of Antioquia
+year: 2016&lt;/li&gt;
+&lt;li&gt;course: BSc in Electrical Engineering
+institution: University of Antioquia
+year: 2013&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;socialacademic-networking&#34;&gt;Social/Academic Networking&lt;/h1&gt;
+&lt;h1 id=&#34;for-available-icons-see-httpssourcethemescomacademicdocswidgetsicons&#34;&gt;For available icons, see: &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/#icons&#34;&gt;https://sourcethemes.com/academic/docs/widgets/#icons&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;for-an-email-link-use-fas-icon-pack-envelope-icon-and-a-link-in-the&#34;&gt;For an email link, use &amp;ldquo;fas&amp;rdquo; icon pack, &amp;ldquo;envelope&amp;rdquo; icon, and a link in the&lt;/h1&gt;
+&lt;h1 id=&#34;form-mailtoyour-emailexamplecom-or-contact-for-contact-widget&#34;&gt;form &amp;ldquo;mailto:your-email@example.com&amp;rdquo; or &amp;ldquo;#contact&amp;rdquo; for contact widget.&lt;/h1&gt;
+&lt;p&gt;social:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;icon: envelope
+icon_pack: fas
+link: &amp;lsquo;#contact&amp;rsquo;  # For a direct email link, use &amp;ldquo;mailto:test@example.org&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;icon: twitter
+icon_pack: fab
+link: &lt;a href=&#34;https://twitter.com/jcvasquezc1&#34;&gt;https://twitter.com/jcvasquezc1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;icon: google-scholar
+icon_pack: ai
+link: &lt;a href=&#34;https://scholar.google.es/citations?user=bgWhMokAAAAJ&#34;&gt;https://scholar.google.es/citations?user=bgWhMokAAAAJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;icon: github
+icon_pack: fab
+link: &lt;a href=&#34;https://github.com/jcvasquezc&#34;&gt;https://github.com/jcvasquezc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;icon: orcid
+icon_pack: fab
+link: &lt;a href=&#34;https://orcid.org/0000-0003-4946-9232&#34;&gt;https://orcid.org/0000-0003-4946-9232&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;icon: researchgate
+icon_pack: fab
+link: &lt;a href=&#34;https://www.researchgate.net/profile/Juan_Vasquez12&#34;&gt;https://www.researchgate.net/profile/Juan_Vasquez12&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;link-to-a-pdf-of-your-resumecv-from-the-about-widget&#34;&gt;Link to a PDF of your resume/CV from the About widget.&lt;/h1&gt;
+&lt;h1 id=&#34;to-enable-copy-your-resumecv-to-staticfilescvpdf-and-uncomment-the-lines-below&#34;&gt;To enable, copy your resume/CV to &lt;code&gt;static/files/cv.pdf&lt;/code&gt; and uncomment the lines below.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;icon: cv
+icon_pack: ai
+link: files/cv.pdf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;enter-email-to-display-gravatar-if-gravatar-enabled-in-config&#34;&gt;Enter email to display Gravatar (if Gravatar enabled in Config)&lt;/h1&gt;
+&lt;p&gt;email: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;organizational-groups-that-you-belong-to-for-people-widget&#34;&gt;Organizational groups that you belong to (for People widget)&lt;/h1&gt;
+&lt;h1 id=&#34;set-this-to--or-comment-out-if-you-are-not-using-people-widget&#34;&gt;Set this to &lt;code&gt;[]&lt;/code&gt; or comment out if you are not using People widget.&lt;/h1&gt;
+&lt;h2 id=&#34;--visitors&#34;&gt;#user_groups:
+#- Researchers
+#- Visitors&lt;/h2&gt;
+&lt;p&gt;I have performed research and development activities in aspects related to data science and machine learning for health-care, security, and business applications during more than eight years.
+My expertise spans machine learning, deep learning, and analysis of time-series such as audio, natural language, and those coming from a variety of sensors to model especially human behavior and consumer habits.
+Thanks to my interdisciplinary background, I have successful record of accomplishments in both industry and academia.
+My background involves the application of machine learning methods to analyze signals such as speech, handwriting, gait, energy consumption, and natural language to monitor and to detect different human traits like emotions, personality, health-states, consumer habits, among others. I have supervised as well several projects regarding the designing and development of machine learning technologies for different applications such as biometric identification, health-care modeling, and business document analysis, using information from speech, text documents, facial expression, keystroke dynamics, among others.
+I am an expert on several frameworks including the standard SciPy Stack (Numpy, SciPy, Pandas, Scikit-Learn, Matplotlib), Tensorflow, Pytorch, Kaldi, Spacy, among others designed for machine learning, natural language processing, and time-series modeling.&lt;/p&gt;
 </description>
     </item>
     
